@@ -1,226 +1,506 @@
 [
   {
-    "slug": "fries-tier-list",
-    "file": "2026-07-27-fries-tier-list.mp4"
-  },
-  {
-    "slug": "fill-blank-overrated",
-    "file": "2026-07-28-fill-blank-overrated.mp4"
-  },
-  {
-    "slug": "app-feed-demo",
-    "file": "2026-07-29-app-feed-demo.mp4"
-  },
-  {
-    "slug": "red-green-flags",
-    "file": "2026-07-30-red-green-flags.mp4"
-  },
-  {
-    "slug": "taco-bracket-r1",
-    "file": "2026-07-31-taco-bracket-r1.mp4"
-  },
-  {
-    "slug": "rate-my-taste",
-    "file": "2026-08-01-rate-my-taste.mp4"
-  },
-  {
-    "slug": "guess-score-gas-station",
-    "file": "2026-08-02-guess-score-gas-station.mp4"
-  },
-  {
-    "slug": "tag-friend-same-order",
-    "file": "2026-08-03-tag-friend-same-order.mp4"
-  },
-  {
-    "slug": "twenty-dollar-game",
-    "file": "2026-08-04-twenty-dollar-game.mp4"
-  },
-  {
-    "slug": "app-scan-demo",
-    "file": "2026-08-05-app-scan-demo.mp4"
-  },
-  {
-    "slug": "unpopular-abc",
-    "file": "2026-08-06-unpopular-abc.mp4"
-  },
-  {
-    "slug": "ten-only-your-city",
-    "file": "2026-08-07-ten-only-your-city.mp4"
-  },
-  {
-    "slug": "first-date-orders",
-    "file": "2026-08-08-first-date-orders.mp4"
-  },
-  {
-    "slug": "app-dish-demo-final",
-    "file": "2026-08-09-app-dish-demo-final.mp4"
-  },
-  {
-    "slug": "top5-birria-austin",
-    "file": "2026-08-10-top5-birria-austin.mp4"
-  },
-  {
-    "slug": "feature-taste-twin",
-    "file": "2026-08-11-feature-taste-twin.mp4"
-  },
-  {
-    "slug": "missing-layer",
-    "file": "2026-08-12-missing-layer.mp4"
-  },
-  {
-    "slug": "subtle-lunch-break",
-    "file": "2026-08-13-subtle-lunch-break.mp4"
-  },
-  {
-    "slug": "feature-price-tracking",
-    "file": "2026-08-14-feature-price-tracking.mp4"
-  },
-  {
-    "slug": "pickle-take",
-    "file": "2026-08-15-pickle-take.mp4"
-  },
-  {
-    "slug": "challenge-number-ones",
-    "file": "2026-08-16-challenge-number-ones.mp4"
-  },
-  {
-    "slug": "feature-dietary",
-    "file": "2026-08-17-feature-dietary.mp4"
-  },
-  {
-    "slug": "top5-late-night",
-    "file": "2026-08-18-top5-late-night.mp4"
-  },
-  {
-    "slug": "feature-badges",
-    "file": "2026-08-19-feature-badges.mp4"
-  },
-  {
-    "slug": "subtle-breakfast-run",
-    "file": "2026-08-20-subtle-breakfast-run.mp4"
-  },
-  {
-    "slug": "feature-campus",
-    "file": "2026-08-21-feature-campus.mp4"
-  },
-  {
-    "slug": "sweet-vs-savory",
-    "file": "2026-08-22-sweet-vs-savory.mp4"
-  },
-  {
-    "slug": "feature-scanner-encore",
-    "file": "2026-08-23-feature-scanner-encore.mp4"
-  },
-  {
-    "slug": "receipt-date-night",
-    "file": "2026-08-24-receipt-date-night.mp4"
-  },
-  {
-    "slug": "campus-move-in",
-    "file": "2026-08-25-campus-move-in.mp4"
-  },
-  {
-    "slug": "hot-take-two-hands",
-    "file": "2026-08-26-hot-take-two-hands.mp4"
-  },
-  {
-    "slug": "dorm-dollar-builds",
-    "file": "2026-08-27-dorm-dollar-builds.mp4"
-  },
-  {
-    "slug": "feature-nearby",
-    "file": "2026-08-28-feature-nearby.mp4"
-  },
-  {
-    "slug": "blank-freshman-mistake",
-    "file": "2026-08-29-blank-freshman-mistake.mp4"
-  },
-  {
-    "slug": "receipt-recovery-brunch",
-    "file": "2026-08-30-receipt-recovery-brunch.mp4"
-  },
-  {
-    "slug": "tag-study-snack",
-    "file": "2026-08-31-tag-study-snack.mp4"
-  },
-  {
-    "slug": "top5-study-fuel",
-    "file": "2026-09-01-top5-study-fuel.mp4"
-  },
-  {
-    "slug": "trust-post",
-    "file": "2026-09-02-trust-post.mp4"
-  },
-  {
-    "slug": "fork-pizza-vote",
-    "file": "2026-09-03-fork-pizza-vote.mp4"
-  },
-  {
-    "slug": "feature-photos",
-    "file": "2026-09-04-feature-photos.mp4"
-  },
-  {
-    "slug": "guess-dining-hall",
-    "file": "2026-09-05-guess-dining-hall.mp4"
-  },
-  {
-    "slug": "summer-closeout",
-    "file": "2026-09-06-summer-closeout.mp4"
-  },
-  {
+    "date": "2026-07-13",
     "slug": "four-star-lie",
-    "file": "2026-07-13-four-star-lie.mp4"
+    "file": "2026-07-13-four-star-lie.mp4",
+    "creativeStatus": "default-unchanged",
+    "creativeVersion": "remotion-v2-current",
+    "pacingProfile": "current",
+    "audioProfile": "current"
   },
   {
+    "date": "2026-07-14",
     "slug": "hot-take-mozz",
-    "file": "2026-07-14-hot-take-mozz.mp4"
+    "file": "2026-07-14-hot-take-mozz.mp4",
+    "creativeStatus": "default-unchanged",
+    "creativeVersion": "remotion-v2-current",
+    "pacingProfile": "current",
+    "audioProfile": "current"
   },
   {
+    "date": "2026-07-15",
     "slug": "guess-the-score",
-    "file": "2026-07-15-guess-the-score.mp4"
+    "file": "2026-07-15-guess-the-score.mp4",
+    "creativeStatus": "default-unchanged",
+    "creativeVersion": "remotion-v2-current",
+    "pacingProfile": "current",
+    "audioProfile": "current"
   },
   {
+    "date": "2026-07-16",
     "slug": "formula",
-    "file": "2026-07-16-formula.mp4"
+    "file": "2026-07-16-formula.mp4",
+    "creativeStatus": "month-one-test",
+    "creativeVersion": "remotion-v3-slow-airy",
+    "pacingProfile": "slow-airy",
+    "audioProfile": "airy-glass"
   },
   {
+    "date": "2026-07-17",
     "slug": "menu-anxiety",
-    "file": "2026-07-17-menu-anxiety.mp4"
+    "file": "2026-07-17-menu-anxiety.mp4",
+    "creativeStatus": "month-one-test",
+    "creativeVersion": "remotion-v3-slow-airy",
+    "pacingProfile": "slow-airy",
+    "audioProfile": "warm-bloom"
   },
   {
+    "date": "2026-07-18",
     "slug": "founding-critic-100",
-    "file": "2026-07-18-founding-critic-100.mp4"
+    "file": "2026-07-18-founding-critic-100.mp4",
+    "creativeStatus": "month-one-test",
+    "creativeVersion": "remotion-v3-slow-airy",
+    "pacingProfile": "slow-airy",
+    "audioProfile": "airy-pulse"
   },
   {
+    "date": "2026-07-19",
     "slug": "this-or-that-pizza",
-    "file": "2026-07-19-this-or-that-pizza.mp4"
+    "file": "2026-07-19-this-or-that-pizza.mp4",
+    "creativeStatus": "month-one-test",
+    "creativeVersion": "remotion-v3-slow-airy",
+    "pacingProfile": "slow-airy",
+    "audioProfile": "organic-spark"
   },
   {
+    "date": "2026-07-20",
     "slug": "hot-take-truffle",
-    "file": "2026-07-20-hot-take-truffle.mp4"
+    "file": "2026-07-20-hot-take-truffle.mp4",
+    "creativeStatus": "month-one-test",
+    "creativeVersion": "remotion-v3-slow-airy",
+    "pacingProfile": "slow-airy",
+    "audioProfile": "airy-glass"
   },
   {
+    "date": "2026-07-21",
     "slug": "one-nine-story",
-    "file": "2026-07-21-one-nine-story.mp4"
+    "file": "2026-07-21-one-nine-story.mp4",
+    "creativeStatus": "month-one-test",
+    "creativeVersion": "remotion-v3-slow-airy",
+    "pacingProfile": "slow-airy",
+    "audioProfile": "warm-bloom"
   },
   {
+    "date": "2026-07-22",
     "slug": "broke-and-hungry",
-    "file": "2026-07-22-broke-and-hungry.mp4"
+    "file": "2026-07-22-broke-and-hungry.mp4",
+    "creativeStatus": "month-one-test",
+    "creativeVersion": "remotion-v3-slow-airy",
+    "pacingProfile": "slow-airy",
+    "audioProfile": "airy-pulse"
   },
   {
+    "date": "2026-07-23",
     "slug": "pioneer",
-    "file": "2026-07-23-pioneer.mp4"
+    "file": "2026-07-23-pioneer.mp4",
+    "creativeStatus": "month-one-test",
+    "creativeVersion": "remotion-v3-slow-airy",
+    "pacingProfile": "slow-airy",
+    "audioProfile": "organic-spark"
   },
   {
+    "date": "2026-07-24",
     "slug": "hot-take-ten",
-    "file": "2026-07-24-hot-take-ten.mp4"
+    "file": "2026-07-24-hot-take-ten.mp4",
+    "creativeStatus": "month-one-test",
+    "creativeVersion": "remotion-v3-slow-airy",
+    "pacingProfile": "slow-airy",
+    "audioProfile": "airy-glass"
   },
   {
+    "date": "2026-07-25",
     "slug": "scan-tease",
-    "file": "2026-07-25-scan-tease.mp4"
+    "file": "2026-07-25-scan-tease.mp4",
+    "creativeStatus": "month-one-test",
+    "creativeVersion": "remotion-v3-slow-airy",
+    "pacingProfile": "slow-airy",
+    "audioProfile": "airy-pulse"
   },
   {
+    "date": "2026-07-26",
     "slug": "final-call",
-    "file": "2026-07-26-final-call.mp4"
+    "file": "2026-07-26-final-call.mp4",
+    "creativeStatus": "month-one-test",
+    "creativeVersion": "remotion-v3-slow-airy",
+    "pacingProfile": "slow-airy",
+    "audioProfile": "warm-bloom"
+  },
+  {
+    "date": "2026-07-27",
+    "slug": "fries-tier-list",
+    "file": "2026-07-27-fries-tier-list.mp4",
+    "creativeStatus": "month-one-test",
+    "creativeVersion": "remotion-v3-slow-airy",
+    "pacingProfile": "slow-airy",
+    "audioProfile": "organic-spark"
+  },
+  {
+    "date": "2026-07-28",
+    "slug": "fill-blank-overrated",
+    "file": "2026-07-28-fill-blank-overrated.mp4",
+    "creativeStatus": "month-one-test",
+    "creativeVersion": "remotion-v3-slow-airy",
+    "pacingProfile": "slow-airy",
+    "audioProfile": "airy-pulse"
+  },
+  {
+    "date": "2026-07-29",
+    "slug": "app-feed-demo",
+    "file": "2026-07-29-app-feed-demo.mp4",
+    "creativeStatus": "month-one-test",
+    "creativeVersion": "remotion-v3-slow-airy",
+    "pacingProfile": "slow-airy",
+    "audioProfile": "airy-glass"
+  },
+  {
+    "date": "2026-07-30",
+    "slug": "red-green-flags",
+    "file": "2026-07-30-red-green-flags.mp4",
+    "creativeStatus": "month-one-test",
+    "creativeVersion": "remotion-v3-slow-airy",
+    "pacingProfile": "slow-airy",
+    "audioProfile": "warm-bloom"
+  },
+  {
+    "date": "2026-07-31",
+    "slug": "taco-bracket-r1",
+    "file": "2026-07-31-taco-bracket-r1.mp4",
+    "creativeStatus": "month-one-test",
+    "creativeVersion": "remotion-v3-slow-airy",
+    "pacingProfile": "slow-airy",
+    "audioProfile": "organic-spark"
+  },
+  {
+    "date": "2026-08-01",
+    "slug": "rate-my-taste",
+    "file": "2026-08-01-rate-my-taste.mp4",
+    "creativeStatus": "month-one-test",
+    "creativeVersion": "remotion-v3-slow-airy",
+    "pacingProfile": "slow-airy",
+    "audioProfile": "airy-glass"
+  },
+  {
+    "date": "2026-08-02",
+    "slug": "guess-score-gas-station",
+    "file": "2026-08-02-guess-score-gas-station.mp4",
+    "creativeStatus": "month-one-test",
+    "creativeVersion": "remotion-v3-slow-airy",
+    "pacingProfile": "slow-airy",
+    "audioProfile": "organic-spark"
+  },
+  {
+    "date": "2026-08-03",
+    "slug": "tag-friend-same-order",
+    "file": "2026-08-03-tag-friend-same-order.mp4",
+    "creativeStatus": "month-one-test",
+    "creativeVersion": "remotion-v3-slow-airy",
+    "pacingProfile": "slow-airy",
+    "audioProfile": "warm-bloom"
+  },
+  {
+    "date": "2026-08-04",
+    "slug": "twenty-dollar-game",
+    "file": "2026-08-04-twenty-dollar-game.mp4",
+    "creativeStatus": "month-one-test",
+    "creativeVersion": "remotion-v3-slow-airy",
+    "pacingProfile": "slow-airy",
+    "audioProfile": "airy-pulse"
+  },
+  {
+    "date": "2026-08-05",
+    "slug": "app-scan-demo",
+    "file": "2026-08-05-app-scan-demo.mp4",
+    "creativeStatus": "month-one-test",
+    "creativeVersion": "remotion-v3-slow-airy",
+    "pacingProfile": "slow-airy",
+    "audioProfile": "airy-glass"
+  },
+  {
+    "date": "2026-08-06",
+    "slug": "unpopular-abc",
+    "file": "2026-08-06-unpopular-abc.mp4",
+    "creativeStatus": "month-one-test",
+    "creativeVersion": "remotion-v3-slow-airy",
+    "pacingProfile": "slow-airy",
+    "audioProfile": "airy-pulse"
+  },
+  {
+    "date": "2026-08-07",
+    "slug": "ten-only-your-city",
+    "file": "2026-08-07-ten-only-your-city.mp4",
+    "creativeStatus": "month-one-test",
+    "creativeVersion": "remotion-v3-slow-airy",
+    "pacingProfile": "slow-airy",
+    "audioProfile": "warm-bloom"
+  },
+  {
+    "date": "2026-08-08",
+    "slug": "first-date-orders",
+    "file": "2026-08-08-first-date-orders.mp4",
+    "creativeStatus": "month-one-test",
+    "creativeVersion": "remotion-v3-slow-airy",
+    "pacingProfile": "slow-airy",
+    "audioProfile": "organic-spark"
+  },
+  {
+    "date": "2026-08-09",
+    "slug": "app-dish-demo-final",
+    "file": "2026-08-09-app-dish-demo-final.mp4",
+    "creativeStatus": "month-one-test",
+    "creativeVersion": "remotion-v3-slow-airy",
+    "pacingProfile": "slow-airy",
+    "audioProfile": "airy-glass"
+  },
+  {
+    "date": "2026-08-10",
+    "slug": "top5-birria-austin",
+    "file": "2026-08-10-top5-birria-austin.mp4",
+    "creativeStatus": "month-one-test",
+    "creativeVersion": "remotion-v3-slow-airy",
+    "pacingProfile": "slow-airy",
+    "audioProfile": "airy-pulse"
+  },
+  {
+    "date": "2026-08-11",
+    "slug": "feature-taste-twin",
+    "file": "2026-08-11-feature-taste-twin.mp4",
+    "creativeStatus": "month-one-test",
+    "creativeVersion": "remotion-v3-slow-airy",
+    "pacingProfile": "slow-airy",
+    "audioProfile": "warm-bloom"
+  },
+  {
+    "date": "2026-08-12",
+    "slug": "missing-layer",
+    "file": "2026-08-12-missing-layer.mp4",
+    "creativeStatus": "month-one-test",
+    "creativeVersion": "remotion-v3-slow-airy",
+    "pacingProfile": "slow-airy",
+    "audioProfile": "organic-spark"
+  },
+  {
+    "date": "2026-08-13",
+    "slug": "subtle-lunch-break",
+    "file": "2026-08-13-subtle-lunch-break.mp4",
+    "creativeStatus": "month-one-test",
+    "creativeVersion": "remotion-v3-slow-airy",
+    "pacingProfile": "slow-airy",
+    "audioProfile": "airy-glass"
+  },
+  {
+    "date": "2026-08-14",
+    "slug": "feature-price-tracking",
+    "file": "2026-08-14-feature-price-tracking.mp4",
+    "creativeStatus": "month-one-test",
+    "creativeVersion": "remotion-v3-slow-airy",
+    "pacingProfile": "slow-airy",
+    "audioProfile": "airy-pulse"
+  },
+  {
+    "date": "2026-08-15",
+    "slug": "pickle-take",
+    "file": "2026-08-15-pickle-take.mp4",
+    "creativeStatus": "deferred-unchanged",
+    "creativeVersion": "remotion-v2-current-not-rerendered",
+    "pacingProfile": "current",
+    "audioProfile": "current"
+  },
+  {
+    "date": "2026-08-16",
+    "slug": "challenge-number-ones",
+    "file": "2026-08-16-challenge-number-ones.mp4",
+    "creativeStatus": "deferred-unchanged",
+    "creativeVersion": "remotion-v2-current-not-rerendered",
+    "pacingProfile": "current",
+    "audioProfile": "current"
+  },
+  {
+    "date": "2026-08-17",
+    "slug": "feature-dietary",
+    "file": "2026-08-17-feature-dietary.mp4",
+    "creativeStatus": "deferred-unchanged",
+    "creativeVersion": "remotion-v2-current-not-rerendered",
+    "pacingProfile": "current",
+    "audioProfile": "current"
+  },
+  {
+    "date": "2026-08-18",
+    "slug": "top5-late-night",
+    "file": "2026-08-18-top5-late-night.mp4",
+    "creativeStatus": "deferred-unchanged",
+    "creativeVersion": "remotion-v2-current-not-rerendered",
+    "pacingProfile": "current",
+    "audioProfile": "current"
+  },
+  {
+    "date": "2026-08-19",
+    "slug": "feature-badges",
+    "file": "2026-08-19-feature-badges.mp4",
+    "creativeStatus": "deferred-unchanged",
+    "creativeVersion": "remotion-v2-current-not-rerendered",
+    "pacingProfile": "current",
+    "audioProfile": "current"
+  },
+  {
+    "date": "2026-08-20",
+    "slug": "subtle-breakfast-run",
+    "file": "2026-08-20-subtle-breakfast-run.mp4",
+    "creativeStatus": "deferred-unchanged",
+    "creativeVersion": "remotion-v2-current-not-rerendered",
+    "pacingProfile": "current",
+    "audioProfile": "current"
+  },
+  {
+    "date": "2026-08-21",
+    "slug": "feature-campus",
+    "file": "2026-08-21-feature-campus.mp4",
+    "creativeStatus": "deferred-unchanged",
+    "creativeVersion": "remotion-v2-current-not-rerendered",
+    "pacingProfile": "current",
+    "audioProfile": "current"
+  },
+  {
+    "date": "2026-08-22",
+    "slug": "sweet-vs-savory",
+    "file": "2026-08-22-sweet-vs-savory.mp4",
+    "creativeStatus": "deferred-unchanged",
+    "creativeVersion": "remotion-v2-current-not-rerendered",
+    "pacingProfile": "current",
+    "audioProfile": "current"
+  },
+  {
+    "date": "2026-08-23",
+    "slug": "feature-scanner-encore",
+    "file": "2026-08-23-feature-scanner-encore.mp4",
+    "creativeStatus": "deferred-unchanged",
+    "creativeVersion": "remotion-v2-current-not-rerendered",
+    "pacingProfile": "current",
+    "audioProfile": "current"
+  },
+  {
+    "date": "2026-08-24",
+    "slug": "receipt-date-night",
+    "file": "2026-08-24-receipt-date-night.mp4",
+    "creativeStatus": "deferred-unchanged",
+    "creativeVersion": "remotion-v2-current-not-rerendered",
+    "pacingProfile": "current",
+    "audioProfile": "current"
+  },
+  {
+    "date": "2026-08-25",
+    "slug": "campus-move-in",
+    "file": "2026-08-25-campus-move-in.mp4",
+    "creativeStatus": "deferred-unchanged",
+    "creativeVersion": "remotion-v2-current-not-rerendered",
+    "pacingProfile": "current",
+    "audioProfile": "current"
+  },
+  {
+    "date": "2026-08-26",
+    "slug": "hot-take-two-hands",
+    "file": "2026-08-26-hot-take-two-hands.mp4",
+    "creativeStatus": "deferred-unchanged",
+    "creativeVersion": "remotion-v2-current-not-rerendered",
+    "pacingProfile": "current",
+    "audioProfile": "current"
+  },
+  {
+    "date": "2026-08-27",
+    "slug": "dorm-dollar-builds",
+    "file": "2026-08-27-dorm-dollar-builds.mp4",
+    "creativeStatus": "deferred-unchanged",
+    "creativeVersion": "remotion-v2-current-not-rerendered",
+    "pacingProfile": "current",
+    "audioProfile": "current"
+  },
+  {
+    "date": "2026-08-28",
+    "slug": "feature-nearby",
+    "file": "2026-08-28-feature-nearby.mp4",
+    "creativeStatus": "deferred-unchanged",
+    "creativeVersion": "remotion-v2-current-not-rerendered",
+    "pacingProfile": "current",
+    "audioProfile": "current"
+  },
+  {
+    "date": "2026-08-29",
+    "slug": "blank-freshman-mistake",
+    "file": "2026-08-29-blank-freshman-mistake.mp4",
+    "creativeStatus": "deferred-unchanged",
+    "creativeVersion": "remotion-v2-current-not-rerendered",
+    "pacingProfile": "current",
+    "audioProfile": "current"
+  },
+  {
+    "date": "2026-08-30",
+    "slug": "receipt-recovery-brunch",
+    "file": "2026-08-30-receipt-recovery-brunch.mp4",
+    "creativeStatus": "deferred-unchanged",
+    "creativeVersion": "remotion-v2-current-not-rerendered",
+    "pacingProfile": "current",
+    "audioProfile": "current"
+  },
+  {
+    "date": "2026-08-31",
+    "slug": "tag-study-snack",
+    "file": "2026-08-31-tag-study-snack.mp4",
+    "creativeStatus": "deferred-unchanged",
+    "creativeVersion": "remotion-v2-current-not-rerendered",
+    "pacingProfile": "current",
+    "audioProfile": "current"
+  },
+  {
+    "date": "2026-09-01",
+    "slug": "top5-study-fuel",
+    "file": "2026-09-01-top5-study-fuel.mp4",
+    "creativeStatus": "deferred-unchanged",
+    "creativeVersion": "remotion-v2-current-not-rerendered",
+    "pacingProfile": "current",
+    "audioProfile": "current"
+  },
+  {
+    "date": "2026-09-02",
+    "slug": "trust-post",
+    "file": "2026-09-02-trust-post.mp4",
+    "creativeStatus": "deferred-unchanged",
+    "creativeVersion": "remotion-v2-current-not-rerendered",
+    "pacingProfile": "current",
+    "audioProfile": "current"
+  },
+  {
+    "date": "2026-09-03",
+    "slug": "fork-pizza-vote",
+    "file": "2026-09-03-fork-pizza-vote.mp4",
+    "creativeStatus": "deferred-unchanged",
+    "creativeVersion": "remotion-v2-current-not-rerendered",
+    "pacingProfile": "current",
+    "audioProfile": "current"
+  },
+  {
+    "date": "2026-09-04",
+    "slug": "feature-photos",
+    "file": "2026-09-04-feature-photos.mp4",
+    "creativeStatus": "deferred-unchanged",
+    "creativeVersion": "remotion-v2-current-not-rerendered",
+    "pacingProfile": "current",
+    "audioProfile": "current"
+  },
+  {
+    "date": "2026-09-05",
+    "slug": "guess-dining-hall",
+    "file": "2026-09-05-guess-dining-hall.mp4",
+    "creativeStatus": "deferred-unchanged",
+    "creativeVersion": "remotion-v2-current-not-rerendered",
+    "pacingProfile": "current",
+    "audioProfile": "current"
+  },
+  {
+    "date": "2026-09-06",
+    "slug": "summer-closeout",
+    "file": "2026-09-06-summer-closeout.mp4",
+    "creativeStatus": "deferred-unchanged",
+    "creativeVersion": "remotion-v2-current-not-rerendered",
+    "pacingProfile": "current",
+    "audioProfile": "current"
   }
 ]
