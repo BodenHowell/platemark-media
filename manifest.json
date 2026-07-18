@@ -6,7 +6,16 @@
     "creativeStatus": "default-unchanged",
     "creativeVersion": "remotion-v2-current",
     "pacingProfile": "current",
-    "audioProfile": "current"
+    "audioProfile": "current",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-07-14",
@@ -15,7 +24,16 @@
     "creativeStatus": "default-unchanged",
     "creativeVersion": "remotion-v2-current",
     "pacingProfile": "current",
-    "audioProfile": "current"
+    "audioProfile": "current",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-07-15",
@@ -24,7 +42,16 @@
     "creativeStatus": "default-unchanged",
     "creativeVersion": "remotion-v2-current",
     "pacingProfile": "current",
-    "audioProfile": "current"
+    "audioProfile": "current",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-07-16",
@@ -33,7 +60,16 @@
     "creativeStatus": "month-one-test",
     "creativeVersion": "remotion-v3-slow-airy",
     "pacingProfile": "slow-airy",
-    "audioProfile": "airy-glass"
+    "audioProfile": "airy-glass",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-07-17",
@@ -42,7 +78,16 @@
     "creativeStatus": "month-one-test",
     "creativeVersion": "remotion-v3-slow-airy",
     "pacingProfile": "slow-airy",
-    "audioProfile": "warm-bloom"
+    "audioProfile": "warm-bloom",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-07-18",
@@ -51,7 +96,16 @@
     "creativeStatus": "month-one-test",
     "creativeVersion": "remotion-v3-slow-airy",
     "pacingProfile": "slow-airy",
-    "audioProfile": "airy-pulse"
+    "audioProfile": "airy-pulse",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-07-19",
@@ -60,7 +114,16 @@
     "creativeStatus": "month-one-test",
     "creativeVersion": "remotion-v3-slow-airy",
     "pacingProfile": "slow-airy",
-    "audioProfile": "organic-spark"
+    "audioProfile": "organic-spark",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-07-20",
@@ -69,7 +132,16 @@
     "creativeStatus": "month-one-test",
     "creativeVersion": "remotion-v3-slow-airy",
     "pacingProfile": "slow-airy",
-    "audioProfile": "airy-glass"
+    "audioProfile": "airy-glass",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-07-21",
@@ -78,7 +150,16 @@
     "creativeStatus": "month-one-test",
     "creativeVersion": "remotion-v3-slow-airy",
     "pacingProfile": "slow-airy",
-    "audioProfile": "warm-bloom"
+    "audioProfile": "warm-bloom",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-07-22",
@@ -87,7 +168,16 @@
     "creativeStatus": "month-one-test",
     "creativeVersion": "remotion-v3-slow-airy",
     "pacingProfile": "slow-airy",
-    "audioProfile": "airy-pulse"
+    "audioProfile": "airy-pulse",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-07-23",
@@ -96,7 +186,16 @@
     "creativeStatus": "month-one-test",
     "creativeVersion": "remotion-v3-slow-airy",
     "pacingProfile": "slow-airy",
-    "audioProfile": "organic-spark"
+    "audioProfile": "organic-spark",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-07-24",
@@ -105,7 +204,16 @@
     "creativeStatus": "month-one-test",
     "creativeVersion": "remotion-v3-slow-airy",
     "pacingProfile": "slow-airy",
-    "audioProfile": "airy-glass"
+    "audioProfile": "airy-glass",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-07-25",
@@ -114,7 +222,16 @@
     "creativeStatus": "month-one-test",
     "creativeVersion": "remotion-v3-slow-airy",
     "pacingProfile": "slow-airy",
-    "audioProfile": "airy-pulse"
+    "audioProfile": "airy-pulse",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-07-26",
@@ -123,7 +240,16 @@
     "creativeStatus": "month-one-test",
     "creativeVersion": "remotion-v3-slow-airy",
     "pacingProfile": "slow-airy",
-    "audioProfile": "warm-bloom"
+    "audioProfile": "warm-bloom",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-07-27",
@@ -132,7 +258,16 @@
     "creativeStatus": "month-one-test",
     "creativeVersion": "remotion-v3-slow-airy",
     "pacingProfile": "slow-airy",
-    "audioProfile": "organic-spark"
+    "audioProfile": "organic-spark",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-07-28",
@@ -141,7 +276,16 @@
     "creativeStatus": "month-one-test",
     "creativeVersion": "remotion-v3-slow-airy",
     "pacingProfile": "slow-airy",
-    "audioProfile": "airy-pulse"
+    "audioProfile": "airy-pulse",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-07-29",
@@ -150,7 +294,16 @@
     "creativeStatus": "month-one-test",
     "creativeVersion": "remotion-v3-slow-airy",
     "pacingProfile": "slow-airy",
-    "audioProfile": "airy-glass"
+    "audioProfile": "airy-glass",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-07-30",
@@ -159,7 +312,16 @@
     "creativeStatus": "month-one-test",
     "creativeVersion": "remotion-v3-slow-airy",
     "pacingProfile": "slow-airy",
-    "audioProfile": "warm-bloom"
+    "audioProfile": "warm-bloom",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-07-31",
@@ -168,7 +330,16 @@
     "creativeStatus": "month-one-test",
     "creativeVersion": "remotion-v3-slow-airy",
     "pacingProfile": "slow-airy",
-    "audioProfile": "organic-spark"
+    "audioProfile": "organic-spark",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-08-01",
@@ -177,7 +348,16 @@
     "creativeStatus": "month-one-test",
     "creativeVersion": "remotion-v3-slow-airy",
     "pacingProfile": "slow-airy",
-    "audioProfile": "airy-glass"
+    "audioProfile": "airy-glass",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-08-02",
@@ -186,7 +366,16 @@
     "creativeStatus": "month-one-test",
     "creativeVersion": "remotion-v3-slow-airy",
     "pacingProfile": "slow-airy",
-    "audioProfile": "organic-spark"
+    "audioProfile": "organic-spark",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-08-03",
@@ -195,7 +384,16 @@
     "creativeStatus": "month-one-test",
     "creativeVersion": "remotion-v3-slow-airy",
     "pacingProfile": "slow-airy",
-    "audioProfile": "warm-bloom"
+    "audioProfile": "warm-bloom",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-08-04",
@@ -204,7 +402,16 @@
     "creativeStatus": "month-one-test",
     "creativeVersion": "remotion-v3-slow-airy",
     "pacingProfile": "slow-airy",
-    "audioProfile": "airy-pulse"
+    "audioProfile": "airy-pulse",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-08-05",
@@ -213,7 +420,16 @@
     "creativeStatus": "month-one-test",
     "creativeVersion": "remotion-v3-slow-airy",
     "pacingProfile": "slow-airy",
-    "audioProfile": "airy-glass"
+    "audioProfile": "airy-glass",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-08-06",
@@ -222,7 +438,16 @@
     "creativeStatus": "month-one-test",
     "creativeVersion": "remotion-v3-slow-airy",
     "pacingProfile": "slow-airy",
-    "audioProfile": "airy-pulse"
+    "audioProfile": "airy-pulse",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-08-07",
@@ -231,7 +456,16 @@
     "creativeStatus": "month-one-test",
     "creativeVersion": "remotion-v3-slow-airy",
     "pacingProfile": "slow-airy",
-    "audioProfile": "warm-bloom"
+    "audioProfile": "warm-bloom",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-08-08",
@@ -240,7 +474,16 @@
     "creativeStatus": "month-one-test",
     "creativeVersion": "remotion-v3-slow-airy",
     "pacingProfile": "slow-airy",
-    "audioProfile": "organic-spark"
+    "audioProfile": "organic-spark",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-08-09",
@@ -249,7 +492,16 @@
     "creativeStatus": "month-one-test",
     "creativeVersion": "remotion-v3-slow-airy",
     "pacingProfile": "slow-airy",
-    "audioProfile": "airy-glass"
+    "audioProfile": "airy-glass",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-08-10",
@@ -258,7 +510,16 @@
     "creativeStatus": "month-one-test",
     "creativeVersion": "remotion-v3-slow-airy",
     "pacingProfile": "slow-airy",
-    "audioProfile": "airy-pulse"
+    "audioProfile": "airy-pulse",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-08-11",
@@ -267,7 +528,16 @@
     "creativeStatus": "month-one-test",
     "creativeVersion": "remotion-v3-slow-airy",
     "pacingProfile": "slow-airy",
-    "audioProfile": "warm-bloom"
+    "audioProfile": "warm-bloom",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-08-12",
@@ -276,7 +546,16 @@
     "creativeStatus": "month-one-test",
     "creativeVersion": "remotion-v3-slow-airy",
     "pacingProfile": "slow-airy",
-    "audioProfile": "organic-spark"
+    "audioProfile": "organic-spark",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-08-13",
@@ -285,7 +564,16 @@
     "creativeStatus": "month-one-test",
     "creativeVersion": "remotion-v3-slow-airy",
     "pacingProfile": "slow-airy",
-    "audioProfile": "airy-glass"
+    "audioProfile": "airy-glass",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-08-14",
@@ -294,7 +582,16 @@
     "creativeStatus": "month-one-test",
     "creativeVersion": "remotion-v3-slow-airy",
     "pacingProfile": "slow-airy",
-    "audioProfile": "airy-pulse"
+    "audioProfile": "airy-pulse",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-08-15",
@@ -303,7 +600,16 @@
     "creativeStatus": "deferred-unchanged",
     "creativeVersion": "remotion-v2-current-not-rerendered",
     "pacingProfile": "current",
-    "audioProfile": "current"
+    "audioProfile": "current",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-08-16",
@@ -312,7 +618,16 @@
     "creativeStatus": "deferred-unchanged",
     "creativeVersion": "remotion-v2-current-not-rerendered",
     "pacingProfile": "current",
-    "audioProfile": "current"
+    "audioProfile": "current",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-08-17",
@@ -321,7 +636,16 @@
     "creativeStatus": "deferred-unchanged",
     "creativeVersion": "remotion-v2-current-not-rerendered",
     "pacingProfile": "current",
-    "audioProfile": "current"
+    "audioProfile": "current",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-08-18",
@@ -330,7 +654,16 @@
     "creativeStatus": "deferred-unchanged",
     "creativeVersion": "remotion-v2-current-not-rerendered",
     "pacingProfile": "current",
-    "audioProfile": "current"
+    "audioProfile": "current",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-08-19",
@@ -339,7 +672,16 @@
     "creativeStatus": "deferred-unchanged",
     "creativeVersion": "remotion-v2-current-not-rerendered",
     "pacingProfile": "current",
-    "audioProfile": "current"
+    "audioProfile": "current",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-08-20",
@@ -348,7 +690,16 @@
     "creativeStatus": "deferred-unchanged",
     "creativeVersion": "remotion-v2-current-not-rerendered",
     "pacingProfile": "current",
-    "audioProfile": "current"
+    "audioProfile": "current",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-08-21",
@@ -357,7 +708,16 @@
     "creativeStatus": "deferred-unchanged",
     "creativeVersion": "remotion-v2-current-not-rerendered",
     "pacingProfile": "current",
-    "audioProfile": "current"
+    "audioProfile": "current",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-08-22",
@@ -366,7 +726,16 @@
     "creativeStatus": "deferred-unchanged",
     "creativeVersion": "remotion-v2-current-not-rerendered",
     "pacingProfile": "current",
-    "audioProfile": "current"
+    "audioProfile": "current",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-08-23",
@@ -375,7 +744,16 @@
     "creativeStatus": "deferred-unchanged",
     "creativeVersion": "remotion-v2-current-not-rerendered",
     "pacingProfile": "current",
-    "audioProfile": "current"
+    "audioProfile": "current",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-08-24",
@@ -384,7 +762,16 @@
     "creativeStatus": "deferred-unchanged",
     "creativeVersion": "remotion-v2-current-not-rerendered",
     "pacingProfile": "current",
-    "audioProfile": "current"
+    "audioProfile": "current",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-08-25",
@@ -393,7 +780,16 @@
     "creativeStatus": "deferred-unchanged",
     "creativeVersion": "remotion-v2-current-not-rerendered",
     "pacingProfile": "current",
-    "audioProfile": "current"
+    "audioProfile": "current",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-08-26",
@@ -402,7 +798,16 @@
     "creativeStatus": "deferred-unchanged",
     "creativeVersion": "remotion-v2-current-not-rerendered",
     "pacingProfile": "current",
-    "audioProfile": "current"
+    "audioProfile": "current",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-08-27",
@@ -411,7 +816,16 @@
     "creativeStatus": "deferred-unchanged",
     "creativeVersion": "remotion-v2-current-not-rerendered",
     "pacingProfile": "current",
-    "audioProfile": "current"
+    "audioProfile": "current",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-08-28",
@@ -420,7 +834,16 @@
     "creativeStatus": "deferred-unchanged",
     "creativeVersion": "remotion-v2-current-not-rerendered",
     "pacingProfile": "current",
-    "audioProfile": "current"
+    "audioProfile": "current",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-08-29",
@@ -429,7 +852,16 @@
     "creativeStatus": "deferred-unchanged",
     "creativeVersion": "remotion-v2-current-not-rerendered",
     "pacingProfile": "current",
-    "audioProfile": "current"
+    "audioProfile": "current",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-08-30",
@@ -438,7 +870,16 @@
     "creativeStatus": "deferred-unchanged",
     "creativeVersion": "remotion-v2-current-not-rerendered",
     "pacingProfile": "current",
-    "audioProfile": "current"
+    "audioProfile": "current",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-08-31",
@@ -447,7 +888,16 @@
     "creativeStatus": "deferred-unchanged",
     "creativeVersion": "remotion-v2-current-not-rerendered",
     "pacingProfile": "current",
-    "audioProfile": "current"
+    "audioProfile": "current",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-09-01",
@@ -456,7 +906,16 @@
     "creativeStatus": "deferred-unchanged",
     "creativeVersion": "remotion-v2-current-not-rerendered",
     "pacingProfile": "current",
-    "audioProfile": "current"
+    "audioProfile": "current",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-09-02",
@@ -465,7 +924,16 @@
     "creativeStatus": "deferred-unchanged",
     "creativeVersion": "remotion-v2-current-not-rerendered",
     "pacingProfile": "current",
-    "audioProfile": "current"
+    "audioProfile": "current",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-09-03",
@@ -474,7 +942,16 @@
     "creativeStatus": "deferred-unchanged",
     "creativeVersion": "remotion-v2-current-not-rerendered",
     "pacingProfile": "current",
-    "audioProfile": "current"
+    "audioProfile": "current",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-09-04",
@@ -483,7 +960,16 @@
     "creativeStatus": "deferred-unchanged",
     "creativeVersion": "remotion-v2-current-not-rerendered",
     "pacingProfile": "current",
-    "audioProfile": "current"
+    "audioProfile": "current",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-09-05",
@@ -492,7 +978,16 @@
     "creativeStatus": "deferred-unchanged",
     "creativeVersion": "remotion-v2-current-not-rerendered",
     "pacingProfile": "current",
-    "audioProfile": "current"
+    "audioProfile": "current",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   },
   {
     "date": "2026-09-06",
@@ -501,6 +996,15 @@
     "creativeStatus": "deferred-unchanged",
     "creativeVersion": "remotion-v2-current-not-rerendered",
     "pacingProfile": "current",
-    "audioProfile": "current"
+    "audioProfile": "current",
+    "rendererProfile": "slides-v3",
+    "hookType": null,
+    "storyPattern": null,
+    "proofSequence": null,
+    "productActions": null,
+    "ctaVariant": null,
+    "openingAssetSource": null,
+    "soundProfile": null,
+    "approval": null
   }
 ]
