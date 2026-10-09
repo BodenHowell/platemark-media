@@ -1,0 +1,157 @@
+{
+  "campaign": "2026-10-09-auburn-ads",
+  "approvedBy": "User instruction: queue all of these up",
+  "format": "Three-slide carousels, 1080x1350",
+  "files": [
+    {
+      "path": "campaigns/2026-10-09-auburn-ads/01-before-kickoff/slide-1.jpg",
+      "bytes": 385832,
+      "sha256": "0f349325895557dcff14e7c5081d9d2c9a2df32e08c88d88f903c808226bb8a9"
+    },
+    {
+      "path": "campaigns/2026-10-09-auburn-ads/01-before-kickoff/slide-2.jpg",
+      "bytes": 319113,
+      "sha256": "cd5ca9a72345e1f8285815a8fdbc47274feb3113bcaa46e65e0b13d693e42224"
+    },
+    {
+      "path": "campaigns/2026-10-09-auburn-ads/01-before-kickoff/slide-3.jpg",
+      "bytes": 394447,
+      "sha256": "1b786502f8b6955d4e94004f0e3fb967155ab7c415b0186ef78db04b12bdadcf"
+    },
+    {
+      "path": "campaigns/2026-10-09-auburn-ads/02-weekend-three-meals/slide-1.jpg",
+      "bytes": 381235,
+      "sha256": "6709d464073dd114e5a845d3a5b5133d1350f3da085984c1e8e6643701d8e31e"
+    },
+    {
+      "path": "campaigns/2026-10-09-auburn-ads/02-weekend-three-meals/slide-2.jpg",
+      "bytes": 331752,
+      "sha256": "396beb4cbaabba9bb8755e097fdd41bd222a87371bf194225396c10aee6c47f1"
+    },
+    {
+      "path": "campaigns/2026-10-09-auburn-ads/02-weekend-three-meals/slide-3.jpg",
+      "bytes": 407781,
+      "sha256": "ffa16bea97bd11f5fc7ccccef47d7ae45976a14b76202739eee28dabad597037"
+    },
+    {
+      "path": "campaigns/2026-10-09-auburn-ads/03-after-the-game/slide-1.jpg",
+      "bytes": 388124,
+      "sha256": "01f883963f664990b8a8a0535a76434c59a65ba249c535646053d27ea5a79365"
+    },
+    {
+      "path": "campaigns/2026-10-09-auburn-ads/03-after-the-game/slide-2.jpg",
+      "bytes": 341105,
+      "sha256": "16884e9855e599fba5ee7c0b87dbebf8d56da14fe219df2caede1512e028ac42"
+    },
+    {
+      "path": "campaigns/2026-10-09-auburn-ads/03-after-the-game/slide-3.jpg",
+      "bytes": 407818,
+      "sha256": "362cc76b744d8a2dc9d47d10b6039dab349af0b8efe4283c54b7e28e6008d4aa"
+    },
+    {
+      "path": "campaigns/2026-10-09-auburn-ads/04-between-classes/slide-1.jpg",
+      "bytes": 377014,
+      "sha256": "ef6346dd364eac2c1947cc06a1107910335c035cc384c9661775c8dd1b33ac5e"
+    },
+    {
+      "path": "campaigns/2026-10-09-auburn-ads/04-between-classes/slide-2.jpg",
+      "bytes": 321311,
+      "sha256": "272cd865e6d6e336fbf3e9231b507c17d162c29fdf8a69de6da5204eeaa6e202"
+    },
+    {
+      "path": "campaigns/2026-10-09-auburn-ads/04-between-classes/slide-3.jpg",
+      "bytes": 394447,
+      "sha256": "1b786502f8b6955d4e94004f0e3fb967155ab7c415b0186ef78db04b12bdadcf"
+    },
+    {
+      "path": "campaigns/2026-10-09-auburn-ads/05-student-budget/slide-1.jpg",
+      "bytes": 389344,
+      "sha256": "3916db11d890995b24629d0fbb9f1666a32bada8742d3f18235d84a7eb7965ba"
+    },
+    {
+      "path": "campaigns/2026-10-09-auburn-ads/05-student-budget/slide-2.jpg",
+      "bytes": 333903,
+      "sha256": "7126ca5ec9e8909d4eb3df28c89767bdf695831ad5784a454c1e29e98d481433"
+    },
+    {
+      "path": "campaigns/2026-10-09-auburn-ads/05-student-budget/slide-3.jpg",
+      "bytes": 407818,
+      "sha256": "362cc76b744d8a2dc9d47d10b6039dab349af0b8efe4283c54b7e28e6008d4aa"
+    },
+    {
+      "path": "campaigns/2026-10-09-auburn-ads/06-group-chat/slide-1.jpg",
+      "bytes": 377775,
+      "sha256": "acb6aa14f3ea76fa5862c7b05cc42f586a60bc4cade54d9831370dc70fd415b4"
+    },
+    {
+      "path": "campaigns/2026-10-09-auburn-ads/06-group-chat/slide-2.jpg",
+      "bytes": 310787,
+      "sha256": "4744ab5986d2047f72ca9741b7d275e15b54ddcb250d90d09f381930111da814"
+    },
+    {
+      "path": "campaigns/2026-10-09-auburn-ads/06-group-chat/slide-3.jpg",
+      "bytes": 394467,
+      "sha256": "388ef8bd6dc6e62d27feaf9f42551da23168b32efd291c58015a28dc2be58c46"
+    },
+    {
+      "path": "campaigns/2026-10-09-auburn-ads/07-food-fomo/slide-1.jpg",
+      "bytes": 389840,
+      "sha256": "2bc8681dfec85413ea2aa3a1fa505722ab164eb87d6ada2c8a4d572257128c50"
+    },
+    {
+      "path": "campaigns/2026-10-09-auburn-ads/07-food-fomo/slide-2.jpg",
+      "bytes": 325114,
+      "sha256": "422657b7cd0e5cd0fa1849600fa9af723b5d5777978c5fae81a8a4ec6737b6e9"
+    },
+    {
+      "path": "campaigns/2026-10-09-auburn-ads/07-food-fomo/slide-3.jpg",
+      "bytes": 394447,
+      "sha256": "1b786502f8b6955d4e94004f0e3fb967155ab7c415b0186ef78db04b12bdadcf"
+    },
+    {
+      "path": "campaigns/2026-10-09-auburn-ads/08-local-usual/slide-1.jpg",
+      "bytes": 345085,
+      "sha256": "6aefae2ac58b6659a59ef06374f8c8bd9a005137be4c77bf7f38f63ccd2d66c8"
+    },
+    {
+      "path": "campaigns/2026-10-09-auburn-ads/08-local-usual/slide-2.jpg",
+      "bytes": 281088,
+      "sha256": "0de4436db35938ffbf7e226ca9864a4e2a836431c924e4b8450b9bf73698c6a0"
+    },
+    {
+      "path": "campaigns/2026-10-09-auburn-ads/08-local-usual/slide-3.jpg",
+      "bytes": 351134,
+      "sha256": "0fc44320093b03131af879edb807a6aff4e65f77558e8c44bd58681b921c7288"
+    },
+    {
+      "path": "campaigns/2026-10-09-auburn-ads/09-remember-the-order/slide-1.jpg",
+      "bytes": 331678,
+      "sha256": "fabe6a8e4927c7790ac9af33c38644de143505762df96dd81cb7ec09bfb577f3"
+    },
+    {
+      "path": "campaigns/2026-10-09-auburn-ads/09-remember-the-order/slide-2.jpg",
+      "bytes": 277014,
+      "sha256": "de4fc1d3df48a77e5db9435b08e8602893c33fe7d5c4c5866399d66541b2354b"
+    },
+    {
+      "path": "campaigns/2026-10-09-auburn-ads/09-remember-the-order/slide-3.jpg",
+      "bytes": 355003,
+      "sha256": "e28c2a31f2087022f750d1e9c553e0ca5474ef4fe2f1290dcd48a1c06c3fbde0"
+    },
+    {
+      "path": "campaigns/2026-10-09-auburn-ads/10-local-food-takes/slide-1.jpg",
+      "bytes": 385305,
+      "sha256": "8f80fd8fc2cd25d43b1f0c88b67b404b729429e477f2f93184ffa09ec90892d3"
+    },
+    {
+      "path": "campaigns/2026-10-09-auburn-ads/10-local-food-takes/slide-2.jpg",
+      "bytes": 330314,
+      "sha256": "fa9c320497578e1e1e1c73088a78e08a6191a2e0fc24f5467fdcaa146e49f574"
+    },
+    {
+      "path": "campaigns/2026-10-09-auburn-ads/10-local-food-takes/slide-3.jpg",
+      "bytes": 394126,
+      "sha256": "ec636d8ea11f8b3ec3e082685f2baf7e448a6ac91615c4f92790493a5efc7d3f"
+    }
+  ]
+}
