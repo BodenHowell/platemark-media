@@ -1,0 +1,65 @@
+{
+  "campaign": "2026-10-10-auburn-ads-2",
+  "ads": [
+    {
+      "id": "11-parents-weekend",
+      "audience": "Visiting parents",
+      "headline": "Parents visiting?\nFind food in Auburn.",
+      "caption": "Parents visiting? Find food in Auburn. Browse dishes before you pick a place to eat.\n\nWhere do you take your parents to eat in Auburn?\n\nSearch PlateMark on the App Store. Free on iPhone.\n#Auburn #AuburnFood #PlateMark"
+    },
+    {
+      "id": "12-brunch",
+      "audience": "Auburn students",
+      "headline": "Looking for brunch\nin Auburn?",
+      "caption": "Looking for brunch in Auburn? See the dishes and reviews before you make plans.\n\nWhat do you order for brunch in Auburn?\n\nSearch PlateMark on the App Store. Free on iPhone.\n#Auburn #AuburnFood #PlateMark"
+    },
+    {
+      "id": "13-new-to-auburn",
+      "audience": "New Auburn residents",
+      "headline": "New to Auburn?\nStart with the food.",
+      "caption": "New to Auburn? Start with the food. Find dishes to try and read what diners think.\n\nWhat dish would you recommend to someone new to Auburn?\n\nSearch PlateMark on the App Store. Free on iPhone.\n#Auburn #AuburnFood #PlateMark"
+    },
+    {
+      "id": "14-same-restaurant",
+      "audience": "Auburn residents",
+      "headline": "Try a new order\nat your usual spot.",
+      "caption": "Try a new order at your usual spot. Check dish reviews before you order the same thing.\n\nWhat is your usual order in Auburn?\n\nSearch PlateMark on the App Store. Free on iPhone.\n#Auburn #AuburnFood #PlateMark"
+    },
+    {
+      "id": "15-dinner-date",
+      "audience": "Auburn students",
+      "headline": "Dinner plans\nin Auburn?",
+      "caption": "Dinner plans in Auburn? Browse food photos together and choose what to try.\n\nWhere would you go for dinner in Auburn?\n\nSearch PlateMark on the App Store. Free on iPhone.\n#Auburn #AuburnFood #PlateMark"
+    },
+    {
+      "id": "16-breakfast-game",
+      "audience": "Game-day visitors",
+      "headline": "Breakfast before\nthe Auburn game?",
+      "caption": "Breakfast before the Auburn game? Check food photos and dish reviews on PlateMark.\n\nWhat is your game-day breakfast order?\n\nSearch PlateMark on the App Store. Free on iPhone.\n#Auburn #AuburnFood #PlateMark #GameDay"
+    },
+    {
+      "id": "17-what-worth",
+      "audience": "Auburn students",
+      "headline": "Is that dish\nworth ordering?",
+      "caption": "Is that dish worth ordering? Read what someone thought about the actual meal.\n\nWhat makes a dish worth ordering again?\n\nSearch PlateMark on the App Store. Free on iPhone.\n#Auburn #AuburnFood #PlateMark"
+    },
+    {
+      "id": "18-food-list",
+      "audience": "Auburn residents",
+      "headline": "Keep your Auburn\nfood list handy.",
+      "caption": "Keep your Auburn food list handy. Save dishes you want to try and review meals you have had.\n\nWhich Auburn dish do you want to try next?\n\nSearch PlateMark on the App Store. Free on iPhone.\n#Auburn #AuburnFood #PlateMark"
+    },
+    {
+      "id": "19-remember-favorite",
+      "audience": "Returning Auburn visitors",
+      "headline": "Remember your\nfavorite Auburn meal.",
+      "caption": "Remember your favorite Auburn meal. Keep dish names and your own ratings in PlateMark.\n\nWhat meal would you go back to Auburn for?\n\nSearch PlateMark on the App Store. Free on iPhone.\n#Auburn #AuburnFood #PlateMark"
+    },
+    {
+      "id": "20-weekend-dinner",
+      "audience": "Auburn residents and students",
+      "headline": "Find dinner\nthis weekend.",
+      "caption": "Find dinner this weekend. Browse Auburn dish reviews and see what looks good.\n\nWhat are you ordering this weekend in Auburn?\n\nSearch PlateMark on the App Store. Free on iPhone.\n#Auburn #AuburnFood #PlateMark"
+    }
+  ]
+}
