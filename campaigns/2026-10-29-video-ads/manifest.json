@@ -1,0 +1,126 @@
+{
+  "createdAt": "2026-10-29",
+  "format": "1080x1920 H264 AAC",
+  "clips": [
+    {
+      "id": "01-know-your-order",
+      "title": "Know your next order",
+      "sha256": "46465a916f46714dd2c9bacc3df1f692bc5da02ba6c78711702f735ce779e999",
+      "bytes": 5338124
+    },
+    {
+      "id": "02-your-kind-of-food",
+      "title": "Find your kind of food",
+      "sha256": "806b26550112c226f86a109a032a72660b1e439887b7d419a8cc7113f54ffa54",
+      "bytes": 4131021
+    },
+    {
+      "id": "03-remember-the-bite",
+      "title": "Remember the good bites",
+      "sha256": "ba5b21bd4e6efa786c7d50391dcfebc0661a88266b258ddceac78a391d18a99e",
+      "bytes": 2957398
+    },
+    {
+      "id": "04-pretty-or-tasty",
+      "title": "Pretty is only part of it",
+      "sha256": "5d3ba571ca87a7d2b6185c8fb7583b81fff49cca12c4e3bb0a774c192d045eba",
+      "bytes": 4449169
+    },
+    {
+      "id": "05-food-friend",
+      "title": "Be the food friend",
+      "sha256": "94ce75d1bfe6d860a0650dd28451d1fbdad2fd5783fa76501aa5347de77b52cd",
+      "bytes": 5332708
+    },
+    {
+      "id": "06-beyond-the-usual",
+      "title": "Go beyond your usual",
+      "sha256": "8e084d5b274667b7419962db39c04dbccbc2542123d1c1eb16eb1aac9d3a28db",
+      "bytes": 4443263
+    },
+    {
+      "id": "07-your-taste",
+      "title": "Your taste deserves a take",
+      "sha256": "35f40ba2dceb370f461722f36aa8e0188323b9dd77d5ea837285896cb61327e5",
+      "bytes": 3021531
+    },
+    {
+      "id": "08-close-by-cravings",
+      "title": "Find a bite close by",
+      "sha256": "17e58f918c3250d8dded9a70da1ab4f1652605d2ddcfae479b629e99d3c2da23",
+      "bytes": 4396292
+    },
+    {
+      "id": "09-behind-the-score",
+      "title": "There is more behind the score",
+      "sha256": "fd6d0e144e611e3037681d5047db827989c82656150e3575d0da97a22b5a12dd",
+      "bytes": 4236037
+    },
+    {
+      "id": "10-your-food-story",
+      "title": "Every dish is part of your story",
+      "sha256": "c4eb87f6dbfccf7b79596cff943174d8e1df66b3ac590a164f0bb6425ce9b767",
+      "bytes": 4036938
+    },
+    {
+      "id": "11-before-the-table",
+      "title": "Know the dish before you sit down",
+      "sha256": "830d965e2d5a7d2188af9c50786540778cf367c7cf92525be3a9e289b08c6f20",
+      "bytes": 5494673
+    },
+    {
+      "id": "12-auburn-visitors",
+      "title": "Have visitors coming to Auburn",
+      "sha256": "3cb17996167556984a3583fa4e7f34b16db811cc8a3dd363cc462e69c69e17e7",
+      "bytes": 5508039
+    },
+    {
+      "id": "13-new-to-auburn",
+      "title": "New to Auburn and hungry",
+      "sha256": "2b7e2440a7bc2abb60116c08bd9488cfd193fe0cf6a3013d39a543ee7e56080c",
+      "bytes": 4146070
+    },
+    {
+      "id": "14-weekend-food-plan",
+      "title": "Give your weekend a food plan",
+      "sha256": "24c753fab48da7cecd8a2cfc0db826e90e3325bf818eec880b19153b6556cc37",
+      "bytes": 5435902
+    },
+    {
+      "id": "15-second-visit",
+      "title": "Make your second visit easier",
+      "sha256": "b967582c03b1ae34f0c580b98bf11c63b83abbb644552f77cf75c5bba825b63f",
+      "bytes": 2971448
+    },
+    {
+      "id": "16-texture-matters",
+      "title": "Texture matters too",
+      "sha256": "b28bd647fefc59f2cec92a7e75fd67b1c13a72fec1fe1840293c28fbdb43f90b",
+      "bytes": 4197405
+    },
+    {
+      "id": "17-food-with-context",
+      "title": "A food photo with more context",
+      "sha256": "e99c8691893ae07492ddca7678ca0c0931899e08f7d40b988b59b588a2d794e9",
+      "bytes": 5447791
+    },
+    {
+      "id": "18-narrow-the-options",
+      "title": "Narrow down your food options",
+      "sha256": "8dc824fa61d9371cf54c47a4f0c1f4e0607fcd0e3bdeeb8a9a9e2ef584527e34",
+      "bytes": 4377700
+    },
+    {
+      "id": "19-dinner-conversation",
+      "title": "Start the dinner conversation",
+      "sha256": "9e91571b78d71e7033f6f7125a4ca1180550c79ace0cad21b38deefdb6654090",
+      "bytes": 5460113
+    },
+    {
+      "id": "20-your-food-notes",
+      "title": "Your food reviews in one place",
+      "sha256": "dff79772796c4e6b75fbc2edee526891071236be5599d43bfd36a68ff21fe83b",
+      "bytes": 2992985
+    }
+  ]
+}
