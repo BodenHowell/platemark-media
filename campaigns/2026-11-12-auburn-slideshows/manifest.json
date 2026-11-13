@@ -1,0 +1,175 @@
+{
+  "batch": "2026-11-12-auburn-slideshows",
+  "ads": [
+    {
+      "id": "21-shrimp-grits",
+      "audience": "Auburn food discovery",
+      "headline": "Shrimp & grits\nin Auburn.",
+      "sub": "See the photo, listed price\nand one diner\u2019s review.",
+      "proof": "8.7 out of 10.\nSee the details.",
+      "screen": "explore",
+      "proofScreen": "explore",
+      "food": "shrimp",
+      "bullets": [
+        "Taste: 9 / 10",
+        "Texture: 9 / 10",
+        "Presentation: 7 / 10"
+      ],
+      "caption": "Shrimp & grits in Auburn. See the photo, listed price and one diner\u2019s review.\n\nWhat do you usually order at The Hound?\n\nSearch PlateMark on the App Store. Free on iPhone.\n#PlateMark #Auburn #AuburnFood #WhatToOrder",
+      "tone": "cream"
+    },
+    {
+      "id": "22-read-the-note",
+      "audience": "Auburn students and residents",
+      "headline": "Ordering The\nBig Nashy?",
+      "sub": "Read what a diner thought\nbefore you decide.",
+      "proof": "The review note\nis worth reading.",
+      "screen": "nashy",
+      "proofScreen": "nashy",
+      "food": "nashy",
+      "bullets": [
+        "Taste: 7 / 10",
+        "Texture: 8 / 10",
+        "Presentation: 6 / 10"
+      ],
+      "caption": "Ordering The Big Nashy? Read what a diner thought before you decide.\n\nWould you order it on a biscuit or regular bread?\n\nSearch PlateMark on the App Store. Free on iPhone.\n#PlateMark #Auburn #AuburnFood #WhatToOrder",
+      "tone": "navy"
+    },
+    {
+      "id": "23-two-dishes",
+      "audience": "Auburn residents",
+      "headline": "Two dishes.\nSame Auburn spot.",
+      "sub": "Compare food photos\nand individual reviews.",
+      "proof": "Different dishes.\nDifferent reviews.",
+      "screen": "nashy",
+      "proofScreen": "explore",
+      "food": "nashy",
+      "bullets": [
+        "Shrimp & Grits: 8.7 / 10",
+        "The Big Nashy: 7.2 / 10",
+        "Individual reviews shown"
+      ],
+      "caption": "Two dishes. Same Auburn spot. Compare food photos and individual reviews.\n\nWhich would you try: shrimp and grits or The Big Nashy?\n\nSearch PlateMark on the App Store. Free on iPhone.\n#PlateMark #Auburn #AuburnFood #WhatToOrder",
+      "tone": "cream"
+    },
+    {
+      "id": "24-rating-details",
+      "audience": "Auburn students",
+      "headline": "Looks good.\nHow did it taste?",
+      "sub": "Look past the photo\nand check the review details.",
+      "proof": "Taste, texture,\npresentation.",
+      "screen": "explore",
+      "proofScreen": "explore",
+      "food": "shrimp",
+      "bullets": [
+        "Taste: 9 / 10",
+        "Texture: 9 / 10",
+        "Presentation: 7 / 10"
+      ],
+      "caption": "Looks good. How did it taste? Look past the photo and check the review details.\n\nWhich matters most to you: taste, texture or presentation?\n\nSearch PlateMark on the App Store. Free on iPhone.\n#PlateMark #Auburn #AuburnFood #WhatToOrder",
+      "tone": "navy"
+    },
+    {
+      "id": "25-dinner-with-friends",
+      "audience": "Auburn students",
+      "headline": "Show your friends\nwhat to order.",
+      "sub": "Start dinner plans\nwith an actual dish.",
+      "proof": "A food photo.\nA useful review.",
+      "screen": "nashy",
+      "proofScreen": "nashy",
+      "food": "nashy",
+      "bullets": [
+        "See the dish",
+        "Read the diner\u2019s notes",
+        "Check the listed price"
+      ],
+      "caption": "Show your friends what to order. Start dinner plans with an actual dish.\n\nWhat dish would you send to your friends?\n\nSearch PlateMark on the App Store. Free on iPhone.\n#PlateMark #Auburn #AuburnFood #WhatToOrder",
+      "tone": "cream"
+    },
+    {
+      "id": "26-the-hound",
+      "audience": "Auburn visitors",
+      "headline": "What should you try\nat The Hound?",
+      "sub": "Start with real dish photos\nand individual reviews.",
+      "proof": "Take a closer look\nat Shrimp & Grits.",
+      "screen": "explore",
+      "proofScreen": "explore",
+      "food": "shrimp",
+      "bullets": [
+        "Dish photo and name",
+        "One diner\u2019s rating: 8.7",
+        "Listed price in the review"
+      ],
+      "caption": "What should you try at The Hound? Start with real dish photos and individual reviews.\n\nWhat would you recommend to a first-time Auburn visitor?\n\nSearch PlateMark on the App Store. Free on iPhone.\n#PlateMark #Auburn #AuburnFood #WhatToOrder",
+      "tone": "navy"
+    },
+    {
+      "id": "27-listed-price",
+      "audience": "Auburn students",
+      "headline": "Check the price\nbefore you decide.",
+      "sub": "See the listed price\nalongside the dish review.",
+      "proof": "$28 in the\nreview shown.",
+      "screen": "explore",
+      "proofScreen": "explore",
+      "food": "shrimp",
+      "bullets": [
+        "Shrimp & Grits",
+        "The Hound in Auburn",
+        "One diner\u2019s review: 8.7"
+      ],
+      "caption": "Check the price before you decide. See the listed price alongside the dish review.\n\nWhich Auburn dish do you think is worth its price?\n\nSearch PlateMark on the App Store. Free on iPhone.\n#PlateMark #Auburn #AuburnFood #WhatToOrder",
+      "tone": "cream"
+    },
+    {
+      "id": "28-after-class",
+      "audience": "Auburn students",
+      "headline": "Dinner after class\nin Auburn?",
+      "sub": "Browse food photos\nand find an order to try.",
+      "proof": "See what someone\nthought of the dish.",
+      "screen": "nashy",
+      "proofScreen": "nashy",
+      "food": "nashy",
+      "bullets": [
+        "Individual dish rating",
+        "Taste and texture scores",
+        "Specific review notes"
+      ],
+      "caption": "Dinner after class in Auburn? Browse food photos and find an order to try.\n\nWhat is your usual dinner order after class?\n\nSearch PlateMark on the App Store. Free on iPhone.\n#PlateMark #Auburn #AuburnFood #WhatToOrder",
+      "tone": "navy"
+    },
+    {
+      "id": "29-meal-history",
+      "audience": "Auburn residents",
+      "headline": "Keep track of\nyour Auburn meals.",
+      "sub": "Keep dish names, photos\nand your ratings together.",
+      "proof": "Your dish reviews,\nall together.",
+      "screen": "profile",
+      "proofScreen": "profile",
+      "food": "nashy",
+      "bullets": [
+        "Your review history",
+        "Dish names and photos",
+        "Your personal ratings"
+      ],
+      "caption": "Keep track of your Auburn meals. Keep dish names, photos and your ratings together.\n\nWhat Auburn meal would you want to remember?\n\nSearch PlateMark on the App Store. Free on iPhone.\n#PlateMark #Auburn #AuburnFood #WhatToOrder",
+      "tone": "cream"
+    },
+    {
+      "id": "30-returning-visitor",
+      "audience": "Returning Auburn visitors",
+      "headline": "Back in Auburn?\nTry a different dish.",
+      "sub": "Browse dish photos\nbefore your next visit.",
+      "proof": "Find a dish\nyou want to try.",
+      "screen": "explore",
+      "proofScreen": "nashy",
+      "food": "shrimp",
+      "bullets": [
+        "Food photos",
+        "Individual reviews",
+        "Listed dish prices"
+      ],
+      "caption": "Back in Auburn? Try a different dish. Browse dish photos before your next visit.\n\nWhat dish are you trying on your next Auburn visit?\n\nSearch PlateMark on the App Store. Free on iPhone.\n#PlateMark #Auburn #AuburnFood #WhatToOrder",
+      "tone": "navy"
+    }
+  ]
+}
