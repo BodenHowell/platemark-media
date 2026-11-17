@@ -1,0 +1,202 @@
+[
+  {
+    "id": "01-rating",
+    "title": "Too much to scroll through?",
+    "feature": "rating",
+    "dueAt": "2026-11-27T21:00:00Z",
+    "sha256": "6574fda80fac5c1dc4487c35c69d1b14cd92170a6d47da1b9ae8d38817dd8aa5",
+    "bytes": 1098747
+  },
+  {
+    "id": "02-menu-price",
+    "title": "Check the prices first.",
+    "feature": "menu-price",
+    "dueAt": "2026-11-28T21:00:00Z",
+    "sha256": "1cc13d285668ef4da5e25383e2ace8b046fff01cac2e7461b64f1f257a68898a",
+    "bytes": 1587623
+  },
+  {
+    "id": "03-dish",
+    "title": "What should you order?",
+    "feature": "dish",
+    "dueAt": "2026-11-29T21:00:00Z",
+    "sha256": "a1debc623eb2125eb6e81901ad43eed173b844dd73f981036e88008d9db8776e",
+    "bytes": 1618370
+  },
+  {
+    "id": "04-distance",
+    "title": "Keep dinner close.",
+    "feature": "distance",
+    "dueAt": "2026-11-30T21:00:00Z",
+    "sha256": "ea49a5e4953d718de9c082ec11adc59099b4e05bc332a0445f01ef326726612e",
+    "bytes": 1226659
+  },
+  {
+    "id": "05-menu-reviewed",
+    "title": "See what people actually tried.",
+    "feature": "menu-reviewed",
+    "dueAt": "2026-12-01T21:00:00Z",
+    "sha256": "6a2c4cb8216a2cfd9fe573a7948022e6fdefc62793308133bf4a123952545aea",
+    "bytes": 1660988
+  },
+  {
+    "id": "06-photo",
+    "title": "Take a closer look.",
+    "feature": "photo",
+    "dueAt": "2026-12-02T21:00:00Z",
+    "sha256": "763d76dea039867a05966b0e501ac4574a2144b8ddbafd789358ed2f6ea67def",
+    "bytes": 1291140
+  },
+  {
+    "id": "07-profile",
+    "title": "Find another dish to try.",
+    "feature": "profile",
+    "dueAt": "2026-12-03T21:00:00Z",
+    "sha256": "831ed5cb11bf0e1dc8ebe60ff95c85b2d72d37fb604b6d9ad4dfa32e7a64da6c",
+    "bytes": 2409257
+  },
+  {
+    "id": "08-places-sort",
+    "title": "Pick a place to start.",
+    "feature": "places-sort",
+    "dueAt": "2026-12-04T21:00:00Z",
+    "sha256": "a30f2c99ae461f9fcf153809742102051df5f9a1400a1ab646b88a398b6696d0",
+    "bytes": 989349
+  },
+  {
+    "id": "09-cuisine",
+    "title": "In the mood for sushi?",
+    "feature": "cuisine",
+    "dueAt": "2026-12-05T21:00:00Z",
+    "sha256": "59c4db6dca9be4ab85373f34cd2474f806a0b5db7ffac1d7d5db8866c58a5062",
+    "bytes": 1031823
+  },
+  {
+    "id": "10-menu-name",
+    "title": "Find a dish by name.",
+    "feature": "menu-name",
+    "dueAt": "2026-12-06T21:00:00Z",
+    "sha256": "c3584de74b17033a08693927bbc9a607be4eb343af40c6934c07de9366849565",
+    "bytes": 1722973
+  },
+  {
+    "id": "11-dish-compare",
+    "title": "Two very different orders.",
+    "feature": "dish-compare",
+    "dueAt": "2026-12-07T21:00:00Z",
+    "sha256": "bc15cad6300af93898a1c57c03b3c584a42d5dc6af4abbf1cf47e712d44420a6",
+    "bytes": 1570390
+  },
+  {
+    "id": "12-rating",
+    "title": "Start with an eight or higher.",
+    "feature": "rating",
+    "dueAt": "2026-12-08T21:00:00Z",
+    "sha256": "61b3176b23becf6bf22cd63f2d68bf563fd36bd48badd335a1d2d338be8a329c",
+    "bytes": 1134777
+  },
+  {
+    "id": "13-menu-price",
+    "title": "Eating out on a budget?",
+    "feature": "menu-price",
+    "dueAt": "2026-12-09T21:00:00Z",
+    "sha256": "86e6b67613332a78a101419bd7d4f505eed556c407d10acd368fbba6736ba6c8",
+    "bytes": 1673934
+  },
+  {
+    "id": "14-dish",
+    "title": "Read the rating breakdown.",
+    "feature": "dish",
+    "dueAt": "2026-12-10T21:00:00Z",
+    "sha256": "fea0301d2bbdbb4c20993ef3e74416c267a95892b5ff7b33fc3601d982318961",
+    "bytes": 1687980
+  },
+  {
+    "id": "15-profile",
+    "title": "More than one food recommendation.",
+    "feature": "profile",
+    "dueAt": "2026-12-11T21:00:00Z",
+    "sha256": "1c1eb0d85ae493e62958f2f5e7516134321dbf00a21edf84c4b64261c8413702",
+    "bytes": 2537178
+  },
+  {
+    "id": "16-distance",
+    "title": "Staying around Auburn tonight?",
+    "feature": "distance",
+    "dueAt": "2026-12-12T21:00:00Z",
+    "sha256": "e456854495cad1833e9f48dadb42fda808b66c6b8734cdd1669194aa47d848be",
+    "bytes": 1226130
+  },
+  {
+    "id": "17-menu-reviewed",
+    "title": "Reviews before dinner.",
+    "feature": "menu-reviewed",
+    "dueAt": "2026-12-13T21:00:00Z",
+    "sha256": "5eef1128c5c2edd7c67d24aaa34ae76f135a8d0ccf05e7c4cd027e39dd3ac5c1",
+    "bytes": 1693568
+  },
+  {
+    "id": "18-photo",
+    "title": "What does it actually look like?",
+    "feature": "photo",
+    "dueAt": "2026-12-14T21:00:00Z",
+    "sha256": "fe789081d68a44889b43063d285b1f57099440c748eba3d0e665473e3a23adc1",
+    "bytes": 1041802
+  },
+  {
+    "id": "19-places-sort",
+    "title": "Looking for somewhere new?",
+    "feature": "places-sort",
+    "dueAt": "2026-12-15T21:00:00Z",
+    "sha256": "51363ed58c2e2d56a024d0927e37997ae8187c999d82facae5b7009bded84d61",
+    "bytes": 1002117
+  },
+  {
+    "id": "20-cuisine",
+    "title": "Make the list a little shorter.",
+    "feature": "cuisine",
+    "dueAt": "2026-12-16T21:00:00Z",
+    "sha256": "af1c53ee0412d94befa91fbdbf78d04d4c3dd8fbe18cc8a1642fb30a67a3a894",
+    "bytes": 1056384
+  },
+  {
+    "id": "21-menu-name",
+    "title": "Know what it is called?",
+    "feature": "menu-name",
+    "dueAt": "2026-12-17T21:00:00Z",
+    "sha256": "fcff8710b0ca1dba2f2a8287ed022052108aee788540f00a15ecc71d9634206e",
+    "bytes": 1736647
+  },
+  {
+    "id": "22-dish-compare",
+    "title": "Rate the dish, not just the place.",
+    "feature": "dish-compare",
+    "dueAt": "2026-12-18T21:00:00Z",
+    "sha256": "4707c402034457ac3b40a7b1abc167aa33a9ed6121553ca96f4264efd3bf493d",
+    "bytes": 1602928
+  },
+  {
+    "id": "23-rating",
+    "title": "Find a starting point for dinner.",
+    "feature": "rating",
+    "dueAt": "2026-12-19T21:00:00Z",
+    "sha256": "15b1eb618f4d6e0c0b48b2bca6f4d9bdf2f2b0a7b1583ac0b7ddc6dbc425dc98",
+    "bytes": 1079101
+  },
+  {
+    "id": "24-menu-price",
+    "title": "Before the menu reaches the table.",
+    "feature": "menu-price",
+    "dueAt": "2026-12-20T21:00:00Z",
+    "sha256": "5ec1b297b44be50889a34b96a425ed4129057e1a96d767b549aac0d749a4afc8",
+    "bytes": 1690127
+  },
+  {
+    "id": "25-dish",
+    "title": "Gameday dinner in Auburn?",
+    "feature": "dish",
+    "dueAt": "2026-12-21T21:00:00Z",
+    "sha256": "be2b10031891f319ec3c3dd73e424b05e1e9196fa971e83e66528615e33af97e",
+    "bytes": 1635152
+  }
+]
