@@ -1,0 +1,42 @@
+[
+  {
+    "id": "01-dinner-ideas",
+    "title": "See the dish first.",
+    "feature": "hound-pasta",
+    "dueAt": "2026-12-20T18:00:00Z",
+    "sha256": "ca99f4c693ca633473dc0170ac9fb19d0f09007abb2fcfce3bc49711d75d0948",
+    "bytes": 5816761
+  },
+  {
+    "id": "02-rating-context",
+    "title": "What is behind the score?",
+    "feature": "dish",
+    "dueAt": "2026-12-21T00:00:00Z",
+    "sha256": "41be41d3899e71f9462796319026d69af528c97197d81d734b72b0d480fe0c5f",
+    "bytes": 3008192
+  },
+  {
+    "id": "03-menu-prices",
+    "title": "Check the prices first.",
+    "feature": "menu-price",
+    "dueAt": "2026-12-21T18:00:00Z",
+    "sha256": "7070484598bb500d47cba72130ab3af2ccae2c8e39248fa3af53094f0c9e467d",
+    "bytes": 2874789
+  },
+  {
+    "id": "04-read-the-review",
+    "title": "Read the review.",
+    "feature": "dish-compare",
+    "dueAt": "2026-12-22T00:00:00Z",
+    "sha256": "6bc5d5c45671661cfd869fc53cc8709a7af40ff148021144a32f6adcffa1df7a",
+    "bytes": 2806933
+  },
+  {
+    "id": "05-review-profile",
+    "title": "More dishes. One profile.",
+    "feature": "profile",
+    "dueAt": "2026-12-22T18:00:00Z",
+    "sha256": "d250ec4fa4e06dda0976ced333ea1a9e55f66d959f87eedf2c83ee938e8fda42",
+    "bytes": 3517994
+  }
+]
