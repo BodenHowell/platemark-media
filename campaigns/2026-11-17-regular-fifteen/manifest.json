@@ -1,0 +1,122 @@
+[
+  {
+    "id": "01-food-feed",
+    "title": "Looking through Auburn food?",
+    "feature": "hound-pasta",
+    "dueAt": "2026-12-23T00:00:00Z",
+    "sha256": "795cba1c49bfca8d9f2d613ae11c45a3249db76d6221788f0c0d439191b6ed72",
+    "bytes": 4668002
+  },
+  {
+    "id": "02-dish-ratings",
+    "title": "What do the ratings mean?",
+    "feature": "dish",
+    "dueAt": "2026-12-23T18:00:00Z",
+    "sha256": "17818dcf044c8f63c9967cf40ed7c7c62d4f0253e88b856a6de0cc6b111b45c4",
+    "bytes": 1830681
+  },
+  {
+    "id": "03-menu-budget",
+    "title": "Sort the menu by price.",
+    "feature": "menu-price",
+    "dueAt": "2026-12-24T00:00:00Z",
+    "sha256": "43d82a66c9d7060630759b0becc70411434028a912ad51c75da7045f0ddaefaf",
+    "bytes": 1778587
+  },
+  {
+    "id": "04-compare-orders",
+    "title": "Two orders at The Hound.",
+    "feature": "dish-compare",
+    "dueAt": "2026-12-24T18:00:00Z",
+    "sha256": "3b88d7854f315da4c4a61e5ab6650e0ceb911615a64d65a119de4d12631fbf77",
+    "bytes": 1816032
+  },
+  {
+    "id": "05-other-reviews",
+    "title": "See what else they reviewed.",
+    "feature": "profile",
+    "dueAt": "2026-12-25T00:00:00Z",
+    "sha256": "81aa78af625f99dc601c29d0fac6e23219e4bb6343bb9b2328ddac4dcdbc18d3",
+    "bytes": 2769794
+  },
+  {
+    "id": "06-distance",
+    "title": "Keep the food ideas close.",
+    "feature": "distance",
+    "dueAt": "2026-12-25T18:00:00Z",
+    "sha256": "cfd369a245f54f01a21df67803124c081298b9b74c17b2111e059d3c2b2c5c5f",
+    "bytes": 1434691
+  },
+  {
+    "id": "07-open-photo",
+    "title": "Look closer at the food.",
+    "feature": "photo",
+    "dueAt": "2026-12-26T00:00:00Z",
+    "sha256": "83676cc0db166aed12ee627a2c74ea21e403cb6d14904c4031155d761389d7bf",
+    "bytes": 1382435
+  },
+  {
+    "id": "08-most-reviewed",
+    "title": "Which dishes have reviews?",
+    "feature": "menu-reviewed",
+    "dueAt": "2026-12-26T18:00:00Z",
+    "sha256": "687a3beee2ef3042abdb771d5daf9840b91c7c324ae4fed6ea89c59bfbacd94e",
+    "bytes": 1840352
+  },
+  {
+    "id": "09-alphabetical",
+    "title": "Find the dish in the list.",
+    "feature": "menu-name",
+    "dueAt": "2026-12-27T00:00:00Z",
+    "sha256": "a0983e9fb507cf5cb62340b3803e4b4a029efd5f65a1c7059e7d8971a7efc85d",
+    "bytes": 1904499
+  },
+  {
+    "id": "10-board-comment",
+    "title": "The comment adds some context.",
+    "feature": "burger-board",
+    "dueAt": "2026-12-27T18:00:00Z",
+    "sha256": "8dfbce343f933b57aa604f06bd9582132e96e95b80822f3067aa1a46617d4de4",
+    "bytes": 2487466
+  },
+  {
+    "id": "11-three-scores",
+    "title": "Taste, texture, presentation.",
+    "feature": "dish",
+    "dueAt": "2026-12-28T00:00:00Z",
+    "sha256": "ba782fa0b08ef7ab1c793f64662411e79150191b432119b228c2afd184572fce",
+    "bytes": 1829818
+  },
+  {
+    "id": "12-listed-prices",
+    "title": "Compare the plates and prices.",
+    "feature": "hound-pasta",
+    "dueAt": "2026-12-28T18:00:00Z",
+    "sha256": "7d28c46f7c0f42dec8fe2d474e735824a08e5075cb12a77a09a4277dcc331fdf",
+    "bytes": 4932048
+  },
+  {
+    "id": "13-higher-ratings",
+    "title": "Start with the higher ratings.",
+    "feature": "rating",
+    "dueAt": "2026-12-29T00:00:00Z",
+    "sha256": "619135937695808fbab0b46c79274846d59df7beaeafa797f30a37a1e9eec2f1",
+    "bytes": 1271181
+  },
+  {
+    "id": "14-food-history",
+    "title": "A profile keeps the reviews together.",
+    "feature": "profile",
+    "dueAt": "2026-12-29T18:00:00Z",
+    "sha256": "0a7eaf3949f13d971593d2fad9840644dc9e08deb0527ea3a3fa2082a247d880",
+    "bytes": 2758747
+  },
+  {
+    "id": "15-next-restaurant",
+    "title": "Before you sit down to order.",
+    "feature": "menu-price",
+    "dueAt": "2026-12-30T00:00:00Z",
+    "sha256": "55e6d7fff690f0dc6bfce88bd172651cf57c18010ae6559ebe314ea6dcf4bd51",
+    "bytes": 1913073
+  }
+]
