@@ -1,0 +1,39 @@
+1
+00:00:00,167 --> 00:00:01,567
+The restaurant's picked.
+
+2
+00:00:01,567 --> 00:00:02,227
+Now you're trying to
+
+3
+00:00:02,227 --> 00:00:03,827
+figure out your order.
+
+4
+00:00:03,827 --> 00:00:05,187
+Open PlateMark and look
+
+5
+00:00:05,187 --> 00:00:06,147
+at the dishes people
+
+6
+00:00:06,147 --> 00:00:07,607
+have posted there.
+
+7
+00:00:07,607 --> 00:00:08,327
+You can read the
+
+8
+00:00:08,327 --> 00:00:09,487
+reviews while you've still
+
+9
+00:00:09,487 --> 00:00:11,047
+got time to decide.
+
+10
+00:00:11,047 --> 00:00:12,087
+It's free on iPhone.

@@ -1,0 +1,43 @@
+1
+00:00:00,167 --> 00:00:00,947
+This is the Big
+
+2
+00:00:00,947 --> 00:00:02,647
+Nashy at The Hound.
+
+3
+00:00:02,647 --> 00:00:04,347
+The review says, “Biscuit
+
+4
+00:00:04,347 --> 00:00:05,687
+fell apart while I
+
+5
+00:00:05,687 --> 00:00:06,927
+was eating it.
+
+6
+00:00:06,927 --> 00:00:08,127
+Should probably sub for
+
+7
+00:00:08,127 --> 00:00:09,287
+normal bread.”
+
+8
+00:00:09,287 --> 00:00:10,227
+You can read reviews
+
+9
+00:00:10,227 --> 00:00:11,367
+like that on PlateMark
+
+10
+00:00:11,367 --> 00:00:12,687
+before you order.
+
+11
+00:00:12,687 --> 00:00:13,827
+It's free on iPhone.

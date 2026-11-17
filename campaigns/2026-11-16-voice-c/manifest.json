@@ -1,0 +1,88 @@
+{
+  "campaign": "2026-11-16-voice-c",
+  "voice": "User-selected Voice C; Chatterbox Turbo with CC0 volunteer reference 3973",
+  "visuals": "Genuine supplied app screens and original food photographs; no creation screens",
+  "music": "Original synthesized PlateMark score",
+  "ads": [
+    {
+      "id": "01-gameday",
+      "title": "Coming to Auburn?",
+      "caption": "Coming to Auburn for a game? Take a look at dish photos and reviews before you get here. PlateMark is free on iPhone\u2014search PlateMark on the App Store. #PlateMark #Auburn #AuburnFood #Gameday",
+      "duration": 13.994667,
+      "sha256": "7606bdd9f5b5519be481efcc02a922b92374afc54498be3b8dea102d88006ed3",
+      "file": "01-gameday.mp4"
+    },
+    {
+      "id": "02-the-hound",
+      "title": "Eating at The Hound?",
+      "caption": "The restaurant is picked. Take a look at the dishes before choosing your order. Shrimp & Grits at The Hound, shown in an individual PlateMark review. Free on iPhone. #PlateMark #AuburnFood #TheHound",
+      "duration": 14.378667,
+      "sha256": "ba6f5eea4189a1a361bece7c7285c753a33c8a0047a7dfb0ad258b48be7b9650",
+      "file": "02-the-hound.mp4"
+    },
+    {
+      "id": "03-the-review-note",
+      "title": "Read the dish notes.",
+      "caption": "A photo plus the details somebody noticed while eating it. The note shown is from one actual Big Nashy review at The Hound. Find PlateMark free on the App Store. #PlateMark #Auburn #FoodReviews",
+      "duration": 16.277333,
+      "sha256": "30e825161c3cf683d201ae583c62f16148d7fdbfbb5392ed725304ac282da9ba",
+      "file": "03-the-review-note.mp4"
+    },
+    {
+      "id": "04-usual-place",
+      "title": "Your usual place?",
+      "caption": "Same restaurant, another dish to consider. Explore food photos and reviews on PlateMark. Free on iPhone\u2014search PlateMark on the App Store. #PlateMark #AuburnFood #WhatToOrder",
+      "duration": 12.352,
+      "sha256": "267479021aadaaefdab31ae7d42db48f55b01ee016b26f4eb56a98152ea7974a",
+      "file": "04-usual-place.mp4"
+    },
+    {
+      "id": "05-your-last-order",
+      "title": "Your last order?",
+      "caption": "Keep the dish name and your review somewhere you can find them again. Your PlateMark reviews live on your profile. Free on iPhone. #PlateMark #FoodReviews #Auburn",
+      "duration": 11.712,
+      "sha256": "900553be374d4cd10be6140747faefa8fd67c8d82db2bff4238bdc7c82988f10",
+      "file": "05-your-last-order.mp4"
+    },
+    {
+      "id": "06-post-your-food",
+      "title": "Post your food.",
+      "caption": "Already taking pictures of your food? Put a few on PlateMark and tell people what you thought of the dish. We're looking for more Auburn food posts. Free on iPhone. #PlateMark #Auburn #AuburnFood #FoodCreators",
+      "duration": 12.181333,
+      "sha256": "7333075e4af232366b163515d2f5ea6b8785e6ed42cd03617ec0645f6c70e536",
+      "file": "06-post-your-food.mp4"
+    },
+    {
+      "id": "07-pick-your-order",
+      "title": "What are you ordering?",
+      "caption": "A few dish photos and reviews before the server comes back. Find PlateMark free on the App Store. #PlateMark #AuburnFood #FoodDiscovery",
+      "duration": 14.528,
+      "sha256": "7ed18e46d35372bf99cf593d26487bdc7e9ae283e174f5cd8346e472293a1303",
+      "file": "07-pick-your-order.mp4"
+    },
+    {
+      "id": "08-back-in-auburn",
+      "title": "Back in Auburn?",
+      "caption": "Back for a weekend in Auburn? Browse dishes while you're making food plans. PlateMark is free on iPhone. #PlateMark #Auburn #AuburnFood #WeekendPlans",
+      "duration": 13.930667,
+      "sha256": "43fd5f9f69a099588a679da3b6af8298795d1ffdc96d963ec8b6fca8cc82ccb3",
+      "file": "08-back-in-auburn.mp4"
+    },
+    {
+      "id": "09-a-short-review",
+      "title": "A short review is enough.",
+      "caption": "Post the dish and write what you thought. A short, specific food review can help somebody choose their order. Join PlateMark free on iPhone. #PlateMark #AuburnFood #FoodReviews #FoodCreators",
+      "duration": 14.762667,
+      "sha256": "09d29682d443af166d7d87372f831ec7c56da5dc112704bf74af9617c6012125",
+      "file": "09-a-short-review.mp4"
+    },
+    {
+      "id": "10-how-it-tasted",
+      "title": "How did it taste?",
+      "caption": "One diner's Shrimp & Grits review at The Hound: 9 for taste, 8.7 overall. See the dish and read the review on PlateMark. Free on iPhone. #PlateMark #AuburnFood #TheHound #FoodReviews",
+      "duration": 14.997333,
+      "sha256": "008b5ee242daa629d7e57203e366cc83008065d051da47791c044ef826f0cd93",
+      "file": "10-how-it-tasted.mp4"
+    }
+  ]
+}
