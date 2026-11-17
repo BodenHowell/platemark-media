@@ -1,0 +1,82 @@
+[
+  {
+    "id": "01-three-orders",
+    "title": "Start with an actual dish.",
+    "feature": "hound-pasta",
+    "dueAt": "2026-11-20T18:00:00Z",
+    "sha256": "872148e6222354fa69de2c1c9b62ebe80d1062e5338b7f324bd362daee92a7f8",
+    "bytes": 5570366
+  },
+  {
+    "id": "02-taste-texture",
+    "title": "Look at the breakdown.",
+    "feature": "dish",
+    "dueAt": "2026-11-21T00:00:00Z",
+    "sha256": "efb9d191a280fad5623da838adb28f943a52ebb998e05c1d08ef902ee3d51d8d",
+    "bytes": 3004781
+  },
+  {
+    "id": "03-compare-prices",
+    "title": "Compare the listed prices.",
+    "feature": "hound-pasta",
+    "dueAt": "2026-11-21T18:00:00Z",
+    "sha256": "bee24f3ce1b652833557e4896f017327f231a355cc20c751cd47be9f0f70e367",
+    "bytes": 4990320
+  },
+  {
+    "id": "04-biscuit-review",
+    "title": "The comment matters.",
+    "feature": "dish-compare",
+    "dueAt": "2026-11-22T00:00:00Z",
+    "sha256": "3fbced4fb521aeafb519d347ad2564a71ebf4a83cc640e753e179b7bf805b584",
+    "bytes": 2725983
+  },
+  {
+    "id": "05-profile-ideas",
+    "title": "Look through their reviews.",
+    "feature": "profile",
+    "dueAt": "2026-11-22T18:00:00Z",
+    "sha256": "92439335e0033a2b2b417d07e5113d1ffcf90cc6710ddbceb5c4b8d0dc548aaf",
+    "bytes": 3479245
+  },
+  {
+    "id": "06-burger-and-board",
+    "title": "Two different dinner ideas.",
+    "feature": "burger-board",
+    "dueAt": "2026-11-23T00:00:00Z",
+    "sha256": "cea6b24c63f117855e3a1bb69031fcb64ff0df70be0bc31fdc9f5f4d63eff0a4",
+    "bytes": 4052893
+  },
+  {
+    "id": "07-nashy-breakdown",
+    "title": "A closer look at the Nashy.",
+    "feature": "dish-compare",
+    "dueAt": "2026-11-23T18:00:00Z",
+    "sha256": "5a8a189e5af19ee518785b6dba440b4adb4b04619c2cc97ed8911cdc0a14e811",
+    "bytes": 2640453
+  },
+  {
+    "id": "08-menu-first",
+    "title": "Look through the menu first.",
+    "feature": "menu-price",
+    "dueAt": "2026-11-24T00:00:00Z",
+    "sha256": "07e1960b53c4ff4e141230ac987b860f62575f36d90bddba2e25fe9e7a5551a5",
+    "bytes": 2828287
+  },
+  {
+    "id": "09-photo-and-comment",
+    "title": "Read past the photo.",
+    "feature": "burger-board",
+    "dueAt": "2026-11-24T18:00:00Z",
+    "sha256": "8df44fcc70972baa947328b2a0ab84de49d27d98b3bd23e90a459117175cc3e3",
+    "bytes": 2959287
+  },
+  {
+    "id": "10-food-notes",
+    "title": "Keep the dishes together.",
+    "feature": "profile",
+    "dueAt": "2026-11-25T00:00:00Z",
+    "sha256": "4155c97931b780bf5581013b8fe34a7db8967404c64b6ef9c89e313d41e34e2f",
+    "bytes": 3683512
+  }
+]
