@@ -1,0 +1,82 @@
+[
+  {
+    "id": "01-parents-dinner",
+    "title": "Parents visiting?\nPick dinner.",
+    "feature": "hound-pasta",
+    "dueAt": "2026-12-10T18:00:00Z",
+    "sha256": "da88ed0a4ff06724f29ecad81a85192b8ef3f1509a79ee29efd420b46a9a63a2",
+    "bytes": 2794862
+  },
+  {
+    "id": "02-group-choice",
+    "title": "The group chat\nneeds a dinner idea.",
+    "feature": "burger-board",
+    "dueAt": "2026-12-11T00:00:00Z",
+    "sha256": "6ce2a248efea7ecd64b4c77f689cc77f08942c8ff8d600160d51efa0fbcf9725",
+    "bytes": 2940552
+  },
+  {
+    "id": "03-read-before-order",
+    "title": "Ordering The Big Nashy?\nRead this first.",
+    "feature": "dish-compare",
+    "dueAt": "2026-12-11T18:00:00Z",
+    "sha256": "3015ab8ec33dc60a9137233c1355e757c0a0c1f1c3b351cef14186d7e0f823b3",
+    "bytes": 1166364
+  },
+  {
+    "id": "04-why-that-score",
+    "title": "Why did this get\nan 8.7?",
+    "feature": "dish",
+    "dueAt": "2026-12-12T00:00:00Z",
+    "sha256": "0acdda03f59cc8da084b5df30c75e7ca1a378cbb487248a33a95cfe20cf2ba74",
+    "bytes": 2034857
+  },
+  {
+    "id": "05-budget-check",
+    "title": "Check the prices\nbefore you go.",
+    "feature": "menu-price",
+    "dueAt": "2026-12-12T18:00:00Z",
+    "sha256": "55223f45bba5e689630ea0432a4835772ed2d772b6b67665b79c4b3588b2b2f1",
+    "bytes": 1948230
+  },
+  {
+    "id": "06-two-orders",
+    "title": "Pasta or a burger?\nBoth are listed at $26.",
+    "feature": "hound-pasta",
+    "dueAt": "2026-12-13T00:00:00Z",
+    "sha256": "7664383afb1f22ce1253bc609ef91d8e5e9e8c262b89fc4451a7a979ea851441",
+    "bytes": 3813581
+  },
+  {
+    "id": "07-remember-dinner",
+    "title": "What did you order\nlast time?",
+    "feature": "profile",
+    "dueAt": "2026-12-13T18:00:00Z",
+    "sha256": "709397e65cdf4369903a751b185f7e384067cfaac8a0461076f870144f42044d",
+    "bytes": 2615218
+  },
+  {
+    "id": "08-gameday-food",
+    "title": "Coming for the game?\nFigure out the food.",
+    "feature": "hound-pasta",
+    "dueAt": "2026-12-14T00:00:00Z",
+    "sha256": "6bf4379a7830250a6c05abcaab12b328775d2123c268d045079799b0ccadc0f3",
+    "bytes": 2956196
+  },
+  {
+    "id": "09-diner-profile",
+    "title": "Like their food picks?\nSee what else they tried.",
+    "feature": "profile",
+    "dueAt": "2026-12-14T18:00:00Z",
+    "sha256": "4ee5362c91e84b5c31bb7b30d385692a136597ccc97b00c21fe90335e689a6b7",
+    "bytes": 2671834
+  },
+  {
+    "id": "10-hound-walkthrough",
+    "title": "Going to The Hound?\nHere\u2019s how to pick a dish.",
+    "feature": "journey",
+    "dueAt": "2026-12-15T00:00:00Z",
+    "sha256": "45babe6579da4f647cc67b831b592d49c916e85b58327fe629c7e83964d1146c",
+    "bytes": 2694394
+  }
+]
