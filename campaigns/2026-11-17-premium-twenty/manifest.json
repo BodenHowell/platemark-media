@@ -1,0 +1,162 @@
+[
+  {
+    "id": "01-before-the-drive",
+    "title": "Coming to Auburn?",
+    "feature": "hound-pasta",
+    "dueAt": "2026-11-25T18:00:00Z",
+    "sha256": "c06e3b90bc81b9e6265a21a29505fdfc4b0dbbc5c1b61ae2e72b862eaa19c56a",
+    "bytes": 4701403
+  },
+  {
+    "id": "02-group-chat",
+    "title": "Send the group a dish.",
+    "feature": "burger-board",
+    "dueAt": "2026-11-26T00:00:00Z",
+    "sha256": "342130af9d0c0ed911f6b34347250ff5eaec464ad4e8f6844c15d0185976d54d",
+    "bytes": 3874302
+  },
+  {
+    "id": "03-your-usual-order",
+    "title": "Try another order.",
+    "feature": "menu-price",
+    "dueAt": "2026-11-26T18:00:00Z",
+    "sha256": "c1eb61f2a27570e4b762b90a61307ff4577ebbf18f820a49da10afce0f39568f",
+    "bytes": 2854101
+  },
+  {
+    "id": "04-shrimp-ratings",
+    "title": "How was the shrimp?",
+    "feature": "dish",
+    "dueAt": "2026-11-27T00:00:00Z",
+    "sha256": "98bdf9110480232097c3a395c70cc1a51ce25f1eef8b57875b33b7bb1c994a54",
+    "bytes": 2956985
+  },
+  {
+    "id": "05-check-the-price",
+    "title": "Check the price, too.",
+    "feature": "hound-pasta",
+    "dueAt": "2026-11-27T18:00:00Z",
+    "sha256": "b8ff84118229e0d0fad89427bec6eee5bf5d8f9d4b2187b0f3625314869e309a",
+    "bytes": 5000329
+  },
+  {
+    "id": "06-parents-visit",
+    "title": "Parents visiting Auburn?",
+    "feature": "hound-pasta",
+    "dueAt": "2026-11-28T00:00:00Z",
+    "sha256": "91ff5826a2575f289ca3bf1e2f2a3f961da4dad646baeeca4481d82df470ace6",
+    "bytes": 4671964
+  },
+  {
+    "id": "07-biscuit-question",
+    "title": "Would you order the biscuit?",
+    "feature": "dish-compare",
+    "dueAt": "2026-11-28T18:00:00Z",
+    "sha256": "aaf6ee1a958369b58914653f794b87503f89dc155f928cf0d521ae02e56521da",
+    "bytes": 2735799
+  },
+  {
+    "id": "08-remember-the-name",
+    "title": "What was that dish called?",
+    "feature": "profile",
+    "dueAt": "2026-11-29T00:00:00Z",
+    "sha256": "775c7b8c86b106ef4df49f557bec130f5947d05247f2c920f4c1501c8eccebd0",
+    "bytes": 3479451
+  },
+  {
+    "id": "09-more-from-them",
+    "title": "See what else they tried.",
+    "feature": "profile",
+    "dueAt": "2026-11-29T18:00:00Z",
+    "sha256": "2c639febc4a7830a9136de16ca2c9dffc30d0877b3386bd19389dd09146fc0e3",
+    "bytes": 3422634
+  },
+  {
+    "id": "10-weekend-dinner",
+    "title": "Need a dinner idea?",
+    "feature": "burger-board",
+    "dueAt": "2026-11-30T00:00:00Z",
+    "sha256": "2bac9952aa2c28174e29e084b4af4d1c6e4b1467f7113f7d047b9738b0a05217",
+    "bytes": 3994400
+  },
+  {
+    "id": "11-texture-counts",
+    "title": "Texture gets its own score.",
+    "feature": "dish-compare",
+    "dueAt": "2026-11-30T18:00:00Z",
+    "sha256": "9654975ea22991051815a7f81f0523129f11b09d3a2bbc52ab4f39caace921c6",
+    "bytes": 2457731
+  },
+  {
+    "id": "12-hound-picked",
+    "title": "Going to The Hound?",
+    "feature": "menu-reviewed",
+    "dueAt": "2026-12-01T00:00:00Z",
+    "sha256": "961e67058546232df4716779faef9a6c1d119df821a6eb73c9ca1b407baf7787",
+    "bytes": 2925990
+  },
+  {
+    "id": "13-acre-burger",
+    "title": "Here\u2019s the burger at Acre.",
+    "feature": "burger-board",
+    "dueAt": "2026-12-06T18:00:00Z",
+    "sha256": "810aa44951bd12a67c7ae4d5ef3fa7d2f3ad0554a86f02767ccef40837c1b4e9",
+    "bytes": 3840167
+  },
+  {
+    "id": "14-pasta-photo",
+    "title": "That pasta looks good.",
+    "feature": "hound-pasta",
+    "dueAt": "2026-12-07T00:00:00Z",
+    "sha256": "2f194c6e3d1aac31292313862809518274813b01b6ab79c0c21e5d987774689d",
+    "bytes": 5633987
+  },
+  {
+    "id": "15-crackers-comment",
+    "title": "What\u2019s in the review?",
+    "feature": "burger-board",
+    "dueAt": "2026-12-07T18:00:00Z",
+    "sha256": "5fa909c5af6100221f0172d547290dbef054c10656685f34c41c9ec5ef8dc2aa",
+    "bytes": 3076111
+  },
+  {
+    "id": "16-between-classes",
+    "title": "Food plans after class?",
+    "feature": "menu-price",
+    "dueAt": "2026-12-08T00:00:00Z",
+    "sha256": "361cb3f2a3cc8b5f729e6af09d50e859ec4ed3acab34dd568950d1dd4b7a0257",
+    "bytes": 2988884
+  },
+  {
+    "id": "17-your-own-notes",
+    "title": "Keep your food reviews.",
+    "feature": "profile",
+    "dueAt": "2026-12-08T18:00:00Z",
+    "sha256": "4d26421b0a2a903e64efb9de06580b05c0e8e6b4b13faa5b5265f8eab811b0df",
+    "bytes": 3523254
+  },
+  {
+    "id": "18-same-price",
+    "title": "Same price. Different dinner.",
+    "feature": "hound-pasta",
+    "dueAt": "2026-12-09T00:00:00Z",
+    "sha256": "35a3ad725abacb70d3ccc78fec27cacc8a26f864e87c531d19ccad31c9fc6ba0",
+    "bytes": 5071805
+  },
+  {
+    "id": "19-read-the-detail",
+    "title": "Start with the details.",
+    "feature": "dish",
+    "dueAt": "2026-12-09T18:00:00Z",
+    "sha256": "3a570fd8b8b9a73225daa34d98d157c65f7bcfd8af9dbce86e961037d14ef267",
+    "bytes": 2980183
+  },
+  {
+    "id": "20-next-visit",
+    "title": "Back in Auburn this weekend?",
+    "feature": "hound-pasta",
+    "dueAt": "2026-12-10T00:00:00Z",
+    "sha256": "9b8174f961765dbb184acb1e8985a8217c35ee4084d5492e468b0b5b16e9ca08",
+    "bytes": 5341848
+  }
+]
