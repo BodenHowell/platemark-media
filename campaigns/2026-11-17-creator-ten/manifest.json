@@ -1,0 +1,82 @@
+[
+  {
+    "id": "01-photo-before-bite",
+    "title": "Photo before\nyour first bite?",
+    "feature": "dish",
+    "dueAt": "2026-11-19T00:00:00Z",
+    "sha256": "2c5c9fb2233221c97e818ced8cdf8be0acf20b446c3bcc121fa40e847c2fb89a",
+    "bytes": 4359008
+  },
+  {
+    "id": "02-food-friend",
+    "title": "Always the friend\nwith food suggestions?",
+    "feature": "burger-board",
+    "dueAt": "2026-11-21T18:00:00Z",
+    "sha256": "0ad0c8009e1396bcfe65e1d56b0c1302227cafd475f39fc1d075bb9e35f90417",
+    "bytes": 3572513
+  },
+  {
+    "id": "03-remember-name",
+    "title": "You have the photo.\nWhat was the dish?",
+    "feature": "dish",
+    "dueAt": "2026-11-24T00:00:00Z",
+    "sha256": "38713f1293334ea745d3e869bbab4e0ae55dfc45b65d08e51ac2670df8eac77f",
+    "bytes": 4244866
+  },
+  {
+    "id": "04-rate-the-order",
+    "title": "Good meal?\nReview the actual dish.",
+    "feature": "dish-compare",
+    "dueAt": "2026-11-26T18:00:00Z",
+    "sha256": "d0598e0b4cf6d08f0f55dcd0ce3b068bba5167aa4e48dd0dc82acdf2671d7b54",
+    "bytes": 3460776
+  },
+  {
+    "id": "05-photo-and-opinion",
+    "title": "You took the photo.\nWhat did you think?",
+    "feature": "dish-compare",
+    "dueAt": "2026-11-29T00:00:00Z",
+    "sha256": "c47ddfe635df4c04f74793b02745157bd855d340bb37c367a66346f32b44e0cc",
+    "bytes": 3661035
+  },
+  {
+    "id": "06-try-again",
+    "title": "Would you\norder it again?",
+    "feature": "dish",
+    "dueAt": "2026-12-06T18:00:00Z",
+    "sha256": "a21cba6fed4fafcb7239f07c7804df8baab2bd482c2d058940bbb8bfd41c462a",
+    "bytes": 4232907
+  },
+  {
+    "id": "07-auburn-orders",
+    "title": "Trying new food\naround Auburn?",
+    "feature": "burger-board",
+    "dueAt": "2026-12-09T00:00:00Z",
+    "sha256": "3e289d12249607d9a9c2177e9467f93160405049b0204d9db7634731e483560a",
+    "bytes": 3643749
+  },
+  {
+    "id": "08-separate-scores",
+    "title": "How did it taste?\nAdd that to the photo.",
+    "feature": "dish",
+    "dueAt": "2026-12-11T18:00:00Z",
+    "sha256": "78f07ebe4d2b3ba8ab6143619b965215e43f3740b43c0eda7f04790eeba59b44",
+    "bytes": 4465086
+  },
+  {
+    "id": "09-recommend-one-dish",
+    "title": "What\u2019s the one dish\nyou tell everyone to try?",
+    "feature": "burger-board",
+    "dueAt": "2026-12-14T00:00:00Z",
+    "sha256": "33a771e3868ec365a6c07427d7033d80c003b7c400f93a26f494c9568acd1f1f",
+    "bytes": 3509745
+  },
+  {
+    "id": "10-your-food-profile",
+    "title": "Make a food profile\nof your own.",
+    "feature": "dish",
+    "dueAt": "2026-12-16T18:00:00Z",
+    "sha256": "ce7064a88dd0c43e024a646130e1fd8a4671b30b8ee21d10b1cb3e502ea19cc3",
+    "bytes": 4201676
+  }
+]
